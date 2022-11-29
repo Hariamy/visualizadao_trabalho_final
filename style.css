@@ -1,24 +1,27 @@
 
 
+
 #barraInterativa {
     overflow: scroll;
     width: 1200px;
-    height: 500px;
+    height: 600px;
     margin: auto;
-};
-  
-#scatter {
-    width: 100px;
-    height: 500px;
+}
+#mapa {
+    width: 1200px;
+    height: 600px;
     margin: auto;
-};
+
+}
+
 
 #pie {
-    width: 100px;
+    width: 1200px;
     height: 500px;
     margin: auto;
-};
-h1 {
+}
+
+.h1 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif
-};
+}
