@@ -1,0 +1,2084 @@
+ARRASTO,LOCAL,ESPECIE,N° DE INDIVIDUOS,CT (cm),PESO (g),PONTO
+ART,P1,Tri. lep,1.0,"59,5","116,74",1
+ART,P1,Tri. lep,2.0,66,"172,03",1
+ART,P1,Tri. lep,3.0,"65,5","179,11",1
+ART,P1,Tri. lep,4.0,"58,5","129,72",1
+ART,P1,Tri. lep,5.0,"64,5","173,27",1
+ART,P1,Tri. lep,6.0,"54,9","111,19",1
+ART,P1,Tri. lep,7.0,"54,3","132,01",1
+ART,P1,Tri. lep,8.0,"64,4","157,03",1
+ART,P1,Tri. lep,9.0,62,"152,71",1
+ART,P1,Tri. lep,10.0,"63,5","91,1",1
+ART,P1,Tri. lep,11.0,"67,3","168,6",1
+ART,P1,Tri. lep,12.0,"55,2","104,09",1
+ART,P1,Tri. lep,13.0,"49,4","76,43",1
+ART,P1,Tri. lep,14.0,"61,6","130,39",1
+ART,P1,Tri. lep,15.0,"56,8","107,83",1
+ART,P1,Tri. lep,16.0,"59,3","121,49",1
+ART,P1,Tri. lep,17.0,"61,2","154,12",1
+ART,P1,Tri. lep,18.0,"52,4","85,68",1
+ART,P1,Tri. lep,19.0,"54,3","164,36",1
+ART,P1,Tri. lep,20.0,"56,9","110,03",1
+ART,P1,Tri. lep,21.0,61,"135,82",1
+ART,P1,Tri. lep,22.0,"52,7","84,88",1
+ART,P1,Tri. lep,23.0,"57,3","118,66",1
+ART,P1,Tri. lep,24.0,"51,6","107,29",1
+ART,P1,Tri. lep,25.0,58,"118,17",1
+ART,P1,Tri. lep,26.0,53,"161,72",1
+ART,P1,Tri. lep,27.0,70,"212,56",1
+ART,P1,Tri. lep,28.0,"72,2","160,64",1
+ART,P1,Tri. lep,29.0,"59,5","151,13",1
+ART,P1,Tri. lep,30.0,"53,7","106,78",1
+ART,P1,Tri. lep,31.0,"72,4","176,07",1
+ART,P1,Tri. lep,32.0,"56,6","127,05",1
+ART,P1,Tri. lep,33.0,"59,2","127,89",1
+ART,P1,Tri. lep,34.0,"54,3","102,43",1
+ART,P1,Tri. lep,35.0,"61,4","162,97",1
+ART,P1,Tri. lep,36.0,"56,6","114,12",1
+ART,P1,Tri. lep,37.0,"56,5","112,61",1
+ART,P1,Tri. lep,38.0,"61,3","131,04",1
+ART,P1,Tri. lep,39.0,"54,3","106,47",1
+ART,P1,Tri. lep,40.0,"64,8","196,28",1
+ART,P1,Tri. lep,41.0,56,"123,86",1
+ART,P1,Tri. lep,42.0,"56,9","118,55",1
+ART,P1,Tri. lep,43.0,"58,8","154,78",1
+ART,P1,Tri. lep,44.0,"65,6","192,79",1
+ART,P1,Tri. lep,45.0,"65,4","184,45",1
+ART,P1,Tri. lep,46.0,"64,5","197,4",1
+ART,P1,Tri. lep,47.0,"50,8","83,05",1
+ART,P1,Tri. lep,48.0,"55,3","112,8",1
+ART,P1,Tri. lep,49.0,59,"140,6",1
+ART,P1,Tri. lep,50.0,"66,8","193,38",1
+ART,P1,Tri. lep,51.0,65,"154,31",1
+ART,P1,Tri. lep,52.0,"58,8","179,1",1
+ART,P1,Tri. lep,53.0,"56,6","128,59",1
+ART,P1,Tri. lep,54.0,"57,3","118,58",1
+ART,P1,Tri. lep,55.0,"59,4","132,5",1
+ART,P1,Tri. lep,56.0,"60,3","153,62",1
+ART,P1,Tri. lep,57.0,"62,2","143,54",1
+ART,P1,Tri. lep,58.0,"58,2","126,3",1
+ART,P1,Tri. lep,59.0,"57,3","124,05",1
+ART,P1,Tri. lep,60.0,"59,4","134,76",1
+ART,P1,Tri. lep,61.0,"59,3","153,85",1
+ART,P1,Cen. und,1.0,87.0,"7,550",1
+ART,P1,Cen. und,2.0,51.3,1017.08,1
+ART,P1,Pel. har,1,15,"31,34",1
+ART,P1,Pel. har,2,"13,4","21,62",1
+ART,P1,Pel. har,3,"12,5","16,95",1
+ART,P1,Pel. har,4,"14,3","27,54",1
+ART,P1,Pel. har,5,"15,7","32,64",1
+ART,P1,Pel. har,6,"12,7","18,14",1
+ART,P1,Pel. har,7,"14,2","21,63",1
+ART,P1,Pel. har,8,"13,9","21,62",1
+ART,P1,Pel. har,9,"11,5","13,76",1
+ART,P1,Pel. har,10,"11,7","13,76",1
+ART,P1,Pel. har,11,12,15,1
+ART,P1,Pel. har,12,11,"12,76",1
+ART,P1,Pel. har,13,"10,6","11,39",1
+ART,P1,Pel. har,14,"11,9","13,95",1
+ART,P1,Pel. har,15,"11,5","11,29",1
+ART,P1,Pel. har,16,10,"9,96",1
+ART,P1,Pel. har,17,"10,6","10,3",1
+ART,P1,Pel. har,18,"10,5","11,06",1
+ART,P1,Pel. har,19,"11,3","12,02",1
+ART,P1,Pel. har,20,"10,5","10,94",1
+ART,P1,Pel. har,21,"10,6","11,26",1
+ART,P1,Pel. har,22,"11,9","14,94",1
+ART,P1,Pel. har,23,"10,4","11,28",1
+ART,P1,Pel. har,24,"11,4","11,99",1
+ART,P1,Pel. har,25,11,"12,44",1
+ART,P1,Pel. har,26,11.6,14.44,1
+ART,P1,Pel. har,27,10.4,8.87,1
+ART,P1,Pel. har,28,9.4,7.58,1
+ART,P1,Pel. har,29,11.7,17.19,1
+ART,P1,Pel. har,30,11.7,15.35,1
+ART,P1,Pel. har,31,11,13.24,1
+ART,P1,Pel. har,32,9.5,6.57,1
+ART,P1,Pel. har,33,11.5,13.53,1
+ART,P1,Pel. har,34,9.5,5.96,1
+ART,P1,Pel. har,35,10.4,8.93,1
+ART,P1,Pel. har,36,11.5,11.34,1
+ART,P1,Pel. har,37,11.6,13.67,1
+ART,P1,Pel. har,38,13.2,21.96,1
+ART,P1,Pel. har,39,9.6,7.17,1
+ART,P1,Pel. har,40,12.3,16.46,1
+ART,P1,Pel. har,41,11.4,11.19,1
+ART,P1,Pel. har,42,9.6,7.54,1
+ART,P1,Pel. har,43,10.7,9.51,1
+ART,P1,Pel. har,44,12.3,16.22,1
+ART,P1,Pel. har,45,10.6,9.33,1
+ART,P1,Pel. har,46,10.4,8.21,1
+ART,P1,Pel. har,47,10.7,11.98,1
+ART,P1,Pel. har,48,10.3,9.74,1
+ART,P1,Pel. har,49,13,22.43,1
+ART,P1,Pel. har,50,10.1,8.13,1
+ART,P1,Pel. har,51,10.9,11.81,1
+ART,P1,Pel. har,52,10,7.36,1
+ART,P1,Pel. har,53,10.1,9.05,1
+ART,P1,Pel. har,54,10.1,9.24,1
+ART,P1,Pel. har,55,10.6,9.44,1
+ART,P1,Pel. har,56,10.7,9.45,1
+ART,P1,Pel. har,57,9.9,8.02,1
+ART,P1,Pel. har,58,10.6,9.89,1
+ART,P1,Pel. har,59,12.6,19.63,1
+ART,P1,Pel. har,60,10.2,8.98,1
+ART,P1,Pel. har,61,13.9,23.09,1
+ART,P1,Pel. har,62,10.5,11.38,1
+ART,P1,Pel. har,63,10.1,10.19,1
+ART,P1,Pel. har,64,10.3,9.31,1
+ART,P1,Pel. har,65,9.9,9.12,1
+ART,P1,Pel. har,66,10.2,9.73,1
+ART,P1,Pel. har,67,11.3,9.64,1
+ART,P1,Pel. har,68,12.6,16.62,1
+ART,P1,Pel. har,69,13.7,19.69,1
+ART,P1,Pel. har,70,10,9.08,1
+ART,P1,Pel. har,71,10.1,8.63,1
+ART,P1,Pel. har,72,13.7,22.32,1
+ART,P1,Pel. har,73,11.2,12.41,1
+ART,P1,Pel. har,74,10.2,8.8,1
+ART,P1,Pel. har,75,10.1,9.33,1
+ART,P1,Pel. har,76,10.5,9.94,1
+ART,P1,Pel. har,77,10.6,10.74,1
+ART,P1,Pel. har,78,10.1,7.74,1
+ART,P1,Pel. har,79,10.4,8.27,1
+ART,P1,Pel. har,80,9,6.29,1
+ART,P1,Pel. har,81,9.8,7.1,1
+ART,P1,Pel. har,82,10.4,10.44,1
+ART,P1,Pel. har,83,12.3,17.25,1
+ART,P1,Pel. har,84,10.2,8.3,1
+ART,P1,Pel. har,85,9.9,7.22,1
+ART,P1,Pel. har,86,10.7,9.7,1
+ART,P1,Pel. har,87,10.1,8.86,1
+ART,P1,Pel. har,88,9.8,9.18,1
+ART,P1,Pel. har,89,12.6,19.37,1
+ART,P1,Pel. har,90,10.6,10.88,1
+ART,P1,Pel. har,91,10.8,10.3,1
+ART,P1,Pel. har,92,14.5,25.54,1
+ART,P1,Pel. har,93,10.6,10.15,1
+ART,P1,Pel. har,94,12.4,18.45,1
+ART,P1,Pel. har,95,13,17.64,1
+ART,P1,Pel. har,96,10,8.8,1
+ART,P1,Pel. har,97,10.3,9.79,1
+ART,P1,Pel. har,98,10.4,9.18,1
+ART,P1,Pel. har,99,11.3,10.92,1
+ART,P1,Pel. har,100,10,9.33,1
+ART,P1,Pel. har,101,11,10.15,1
+ART,P1,Pel. har,102,10.2,9.98,1
+ART,P1,Pel. har,103,13.1,17.61,1
+ART,P1,Pel. har,104,9.6,8.55,1
+ART,P1,Pel. har,105,10.6,10,1
+ART,P1,Pel. har,106,11.1,10.77,1
+ART,P1,Pel. har,107,9.2,5.65,1
+ART,P1,Opi. ogl,1,"9,6","5,75",1
+ART,P1,Opi. ogl,2,"5,7","1,52",1
+ART,P1,Opi. ogl,3,9,4.38,1
+ART,P1,Opi. ogl,4,9.2,5.19,1
+ART,P1,Opi. ogl,5,7.3,2.34,1
+ART,P1,Opi. ogl,6,7,2.18,1
+ART,P1,Opi. ogl,7,9.1,5.86,1
+ART,P1,Opi. ogl,8,7.3,2.64,1
+ART,P1,Opi. ogl,9,7.9,3.26,1
+ART,P1,Opi. ogl,10,7.6,1.95,1
+ART,P1,Opi. ogl,11,6.9,2.11,1
+ART,P1,Opi. ogl,12,7.6,3.37,1
+ART,P1,Opi. ogl,13,7.8,2.75,1
+ART,P1,Opi. ogl,14,7.3,2.78,1
+ART,P1,Opi. ogl,15,7.6,2.95,1
+ART,P1,Opi. ogl,16,7.8,3.41,1
+ART,P1,Opi. ogl,17,7.6,2.79,1
+ART,P1,Opi. ogl,18,8.3,3.9,1
+ART,P1,Opi. ogl,19,7.9,3.78,1
+ART,P1,Opi. ogl,20,7.1,1.95,1
+ART,P1,Opi. ogl,21,7.6,2.77,1
+ART,P1,Opi. ogl,22,7.2,2.43,1
+ART,P1,Opi. ogl,23,7.1,2.15,1
+ART,P1,Opi. ogl,24,7.1,2.63,1
+ART,P1,Opi. ogl,25,7.1,2.18,1
+ART,P1,Opi. ogl,26,8,3.45,1
+ART,P1,Opi. ogl,27,7.4,2.68,1
+ART,P1,Opi. ogl,28,7.9,3.36,1
+ART,P1,Opi. ogl,29,8,2.66,1
+ART,P1,Opi. ogl,30,7.3,2.82,1
+ART,P1,Opi. ogl,31,7.8,3.1,1
+ART,P1,Opi. ogl,32,7.6,3.14,1
+ART,P1,Opi. ogl,33,7.2,3,1
+ART,P1,Opi. ogl,34,8.9,4.64,1
+ART,P1,Opi. ogl,35,7.1,2.57,1
+ART,P1,Opi. ogl,36,11,7.76,1
+ART,P1,Opi. ogl,37,6.8,1.9,1
+ART,P1,Opi. ogl,38,7.5,2.66,1
+ART,P1,Opi. ogl,39,7.3,2.7,1
+ART,P1,Opi. ogl,40,7.2,2.55,1
+ART,P1,Opi. ogl,41,7.4,2.34,1
+ART,P1,Opi. ogl,42,7.1,2.48,1
+ART,P1,Opi. ogl,43,6.7,2.11,1
+ART,P1,Opi. ogl,44,7,2.61,1
+ART,P1,Opi. ogl,45,8.1,3.37,1
+ART,P1,Opi. ogl,46,6.9,2.38,1
+ART,P1,Opi. ogl,47,6.9,1.99,1
+ART,P1,Opi. ogl,48,7.1,2.47,1
+ART,P1,Opi. ogl,49,7.4,2.54,1
+ART,P1,Opi. ogl,50,7.9,2.47,1
+ART,P1,Opi. ogl,51,7.5,2.98,1
+ART,P1,Opi. ogl,52,7,2.85,1
+ART,P1,Opi. ogl,53,7.7,2.32,1
+ART,P1,Opi. ogl,54,7.9,3.24,1
+ART,P1,Opi. ogl,55,7.5,3,1
+ART,P1,Opi. ogl,56,7.1,2.68,1
+ART,P1,Opi. ogl,57,7.4,2.17,1
+ART,P1,Opi. ogl,58,6,2.45,1
+ART,P1,Opi. ogl,59,7.8,2.24,1
+ART,P1,Opi. ogl,60,8.8,2.66,1
+ART,P1,Opi. ogl,61,7.6,3.99,1
+ART,P1,Opi. ogl,62,7.2,3.38,1
+ART,P1,Opi. ogl,63,7.5,2.44,1
+ART,P1,Opi. ogl,64,8.3,2.08,1
+ART,P1,Opi. ogl,65,8.3,3.21,1
+ART,P1,Opi. ogl,66,7.5,2.72,1
+ART,P1,Opi. ogl,67,7.1,2.71,1
+ART,P1,Opi. ogl,68,7.4,3.07,1
+ART,P1,Opi. ogl,69,7.4,2.64,1
+ART,P1,Opi. ogl,70,7.5,2.8,1
+ART,P1,Opi. ogl,71,10.4,5.62,1
+ART,P1,Opi. ogl,72,7,2.04,1
+ART,P1,Opi. ogl,73,7.1,2.56,1
+ART,P1,Opi. ogl,74,7.9,2.93,1
+ART,P1,Opi. ogl,75,7.3,2.27,1
+ART,P1,Opi. ogl,76,8.2,2.77,1
+ART,P1,Opi. ogl,77,7.8,2.7,1
+ART,P1,Opi. ogl,78,7.5,3.27,1
+ART,P1,Opi. ogl,79,7.6,3.15,1
+ART,P1,Opi. ogl,80,9.3,5.15,1
+ART,P1,Opi. ogl,81,6.9,2.03,1
+ART,P1,Opi. ogl,82,7.6,2.7,1
+ART,P1,Opi. ogl,83,8.4,3.96,1
+ART,P1,Opi. ogl,84,7.6,2.52,1
+ART,P1,Opi. ogl,85,6.6,2.08,1
+ART,P1,Opi. ogl,86,8.3,3.61,1
+ART,P1,Opi. ogl,87,7.9,2.98,1
+ART,P1,Opi. ogl,88,7.3,2.88,1
+ART,P1,Opi. ogl,89,7.2,2.24,1
+ART,P1,Opi. ogl,90,7.8,3.3,1
+ART,P1,Opi. ogl,91,6.5,1.93,1
+ART,P1,Opi. ogl,92,7.5,2.79,1
+ART,P1,Opi. ogl,93,8.4,4.24,1
+ART,P1,Opi. ogl,94,7.2,2.46,1
+ART,P1,Opi. ogl,95,7.5,2.62,1
+ART,P1,Opi. ogl,96,7.4,2.48,1
+ART,P1,Opi. ogl,97,7.4,2.62,1
+ART,P1,Opi. ogl,98,9.7,6.49,1
+ART,P1,Opi. ogl,99,8.6,3.89,1
+ART,P1,Opi. ogl,100,6.9,2.26,1
+ART,P1,Opi. ogl,101,9.6,5.37,1
+ART,P1,Opi. ogl,102,7.6,2.66,1
+ART,P1,Opi. ogl,103,7.6,2.39,1
+ART,P1,Opi. ogl,104,6.6,1.84,1
+ART,P1,Opi. ogl,105,7.6,3.15,1
+ART,P1,Opi. ogl,106,7.2,2.35,1
+ART,P1,Opi. ogl,107,7.1,2.07,1
+ART,P1,Opi. ogl,108,7.1,2.39,1
+ART,P1,Opi. ogl,109,7.6,2.67,1
+ART,P1,Opi. ogl,110,7.6,2.55,1
+ART,P1,Opi. ogl,111,6.8,2.12,1
+ART,P1,Opi. ogl,112,7.8,2.97,1
+ART,P1,Opi. ogl,113,7.5,2.93,1
+ART,P1,Opi. ogl,114,7,2.05,1
+ART,P1,Opi. ogl,115,8,2.51,1
+ART,P1,Opi. ogl,116,7.1,2.26,1
+ART,P1,Opi. ogl,117,7.2,2.15,1
+ART,P1,Opi. ogl,118,6.9,2.32,1
+ART,P1,Opi. ogl,119,6.8,2,1
+ART,P1,Opi. ogl,120,7.5,2.85,1
+ART,P1,Opi. ogl,121,8.8,4.32,1
+ART,P1,Opi. ogl,122,7.5,2.6,1
+ART,P1,Opi. ogl,123,7.5,2.67,1
+ART,P1,Opi. ogl,124,8.4,3.52,1
+ART,P1,Opi. ogl,125,7.9,3.75,1
+ART,P1,Opi. ogl,126,7.5,3.15,1
+ART,P1,Opi. ogl,127,7.6,2.93,1
+ART,P1,Opi. ogl,128,7,2.42,1
+ART,P1,Opi. ogl,129,7.5,2.8,1
+ART,P1,Opi. ogl,130,6.9,2.17,1
+ART,P1,Opi. ogl,131,7.4,2.52,1
+ART,P1,Con. nob,1.0,10,"11,36",1
+ART,P1,Con. nob,2.0,"9,6","9,79",1
+ART,P1,Con. nob,3.0,12,"20,27",1
+ART,P1,Con. nob,4.0,"6,7","3,20",1
+ART,P1,Con. nob,5.0,"5,2","1,58",1
+ART,P1,Con. nob,6.0,"6,1","2,37",1
+ART,P1,Con. nob,7.0,"9,6","9,70",1
+ART,P1,Con. nob,8.0,"8,5","6,35",1
+ART,P1,Con. nob,9.0,"6,6","2,30",1
+ART,P1,Con. nob,10.0,8.3,8.57,1
+ART,P1,Con. nob,11.0,10.1,9.54,1
+ART,P1,Con. nob,12.0,6.9,4.39,1
+ART,P1,Tra. car,1.0,4.0,"0,47",1
+ART,P1,Har. clu,1.0,"13,8","26,49",1
+ART,P1,Har. clu,2.0,"13,3","24,93",1
+ART,P1,Mug. cur,1.0,"12,8","21,84",1
+ART,P1,Mug. cur,2.0,"13,7","22,66",1
+ART,P1,Mug. cur,3.0,19,"68,47",1
+ART,P1,Mug. cur,4.0,"27,5","180,66",1
+ART,P1,Mug. cur,5.0,"28,5","226,02",1
+ART,P1,Mug. cur,6.0,"27,8","179,14",1
+ART,P1,Chl. chr,1.0,"12,4","12,84",1
+ART,P1,Chl. chr,2.0,"12,3","14,50",1
+ART,P1,Chl. chr,3.0,"10,9","10,59",1
+ART,P1,Chl. chr,4.0,"12,8","16,17",1
+ART,P1,Chl. chr,5.0,"11,8","11,18",1
+ART,P1,Chl. chr,6.0,"13,5","19,43",1
+ART,P1,Chl. chr,7.0,"12,4","14,75",1
+ART,P1,Chl. chr,8.0,"13,3","16,77",1
+ART,P1,Chl. chr,9.0,"10,9","9,75",1
+ART,P1,Chl. chr,10.0,"11,3","10,38",1
+ART,P1,Chl. chr,11.0,"12,2","12,90",1
+ART,P1,Chl. chr,12.0,"11,2","8,40",1
+ART,P1,Chl. chr,13.0,12,"12,31",1
+ART,P1,Chl. chr,14.0,"11,3","9,35",1
+ART,P1,Chl. chr,15.0,"10,7","9,24",1
+ART,P1,Chl. chr,16.0,"12,1","11,70",1
+ART,P1,Chl. chr,17.0,"12,0","14,59",1
+ART,P1,Chl. chr,18.0,"11,8","7,24",1
+ART,P1,Chl. chr,19.0,"12,0","13,59",1
+ART,P1,Chl. chr,20.0,"11,3","10,47",1
+ART,P1,Chl. chr,21.0,"11,1","9,81",1
+ART,P1,Chl. chr,22.0,"12,3","12,87",1
+ART,P1,Chl. chr,23.0,"13,0","16,33",1
+ART,P1,Chl. chr,24.0,"12,2","10,48",1
+ART,P1,Chl. chr,25.0,"11,5","11,60",1
+ART,P1,Chl. chr,26.0,"11,5","13,58",1
+ART,P1,Chl. chr,27.0,"11,0","9,63",1
+ART,P1,Chl. chr,28.0,"11,6","40,42",1
+ART,P1,Chl. chr,29.0,13.1,15.63,1
+ART,P1,Chl. chr,30.0,11.1,11.64,1
+ART,P1,Chl. chr,31.0,11.9,10.72,1
+ART,P1,Chl. chr,32.0,12.1,11.11,1
+ART,P1,Chl. chr,33.0,11.6,11.45,1
+ART,P1,Chl. chr,34.0,12,13.05,1
+ART,P1,Chl. chr,35.0,12.8,9.4,1
+ART,P1,Chl. chr,36.0,11.7,14.76,1
+ART,P1,Chl. chr,37.0,11.8,16.27,1
+ART,P1,Chl. chr,38.0,10.5,9.74,1
+ART,P1,Euc. gul,1.0,"7,6","4,11",1
+ART,P1,Euc. gul,2.0,"7,5","3,59",1
+ART,P1,Euc. gul,3.0,"7,7","4,15",1
+ART,P1,Euc. gul,4.0,"6,8","3,03",1
+ART,P1,Euc. gul,5.0,"9,5","9,03",1
+ART,P1,Euc. gul,6.0,"8,1","4,92",1
+ART,P1,Euc. gul,7.0,"7,4","3,43",1
+ART,P1,Euc. gul,8.0,"9,6","7,91",1
+ART,P1,Euc. gul,9.0,"7,2","4,05",1
+ART,P1,Euc. gul,10.0,"8,1","5,97",1
+ART,P1,Euc. gul,11.0,"7,8","4,80",1
+ART,P1,Euc. gul,12.0,"7,5","3,67",1
+ART,P1,Euc. gul,13.0,7,"3,26",1
+ART,P1,Euc. gul,14.0,"6,7","2,53",1
+ART,P1,Euc. gul,15.0,"7,1","2,94",1
+ART,P1,Euc. gul,16.0,"7,8","4,29",1
+ART,P1,Euc. gul,17.0,"6,9","2,34",1
+ART,P1,Euc. gul,18.0,"6,2","1,84",1
+ART,P1,Euc. gul,19.0,"10,3","8,69",1
+ART,P1,Euc. gul,20.0,"9,8","8,06",1
+ART,P1,Euc. gul,21.0,"6,5","3,59",1
+ART,P1,Euc. gul,22.0,"7,3","3,46",1
+ART,P1,Euc. gul,23.0,"8,4","5,23",1
+ART,P1,Euc. gul,24.0,"7,0","2,34",1
+ART,P1,Euc. gul,25.0,7.3,3.41,1
+ART,P1,Euc. gul,26.0,7.3,4.24,1
+ART,P1,Euc. gul,27.0,7.7,5.07,1
+ART,P1,Euc. gul,28.0,7.1,3.48,1
+ART,P1,Euc. gul,29.0,7.8,5.03,1
+ART,P1,Euc. gul,30.0,7.7,4.93,1
+ART,P1,Euc. gul,31.0,8.1,5.42,1
+ART,P1,Euc. gul,32.0,7.6,4.13,1
+ART,P1,Euc. gul,33.0,9.4,6.87,1
+ART,P1,Euc. gul,34.0,6.2,2.66,1
+ART,P1,Euc. gul,35.0,5.4,2.05,1
+ART,P1,Euc. gul,36.0,7.6,4.88,1
+ART,P1,Euc. gul,37.0,8.4,5.86,1
+ART,P1,Euc. gul,38.0,5.9,2.12,1
+ART,P1,Euc. gul,39.0,6.9,2.79,1
+ART,P1,Hae. cor,1.0,"11,6","16,54",1
+ART,P1,Hae. cor,2.0,"11,6","16,54",1
+ART,P1,Hae. cor,3.0,8,"4,65",1
+ART,P1,Hae. cor,4.0,"13,2","27,89",1
+ART,P1,Hae. cor,5.0,"12,7","19,88",1
+ART,P1,Hae. cor,6.0,"8,4","6,93",1
+ART,P1,Hae. cor,7.0,"7,6","5,90",1
+ART,P1,Hae. cor,8.0,"8,5","7,44",1
+ART,P1,Hae. cor,9.0,"6,5","2,73",1
+ART,P1,Hae. cor,10.0,"8,2","6,43",1
+ART,P1,Hae. cor,11.0,"9,4","7,70",1
+ART,P1,Hae. cor,12.0,"8,5","5,77",1
+ART,P1,Hae. cor,13.0,"6,9","3,25",1
+ART,P1,Hae. cor,14.0,"11,0","15,79",1
+ART,P1,Hae. cor,15.0,8.9,"7,07",1
+ART,P1,Hae. cor,16.0,"8,3","6,05",1
+ART,P1,Hae. cor,17.0,"7,8","5,16",1
+ART,P1,Hae. cor,18.0,"6,5","3,21",1
+ART,P1,Hae. cor,19.0,"6,6","6,96",1
+ART,P1,Hae. cor,20.0,"7,0","3,36",1
+ART,P1,Hae. cor,21.0,9.1,8.95,1
+ART,P1,Hae. cor,22.0,8.6,7.56,1
+ART,P1,Hae. cor,23.0,7.6,5.44,1
+ART,P1,Hae. cor,24.0,7.6,5.29,1
+ART,P1,Hae. cor,25.0,9.5,10.11,1
+ART,P1,Hae. cor,26.0,7.1,3.3,1
+ART,P1,Lar. bre,1.0,"9,5","9,45",1
+ART,P1,Lar. bre,2.0,"10,3","11,36",1
+ART,P1,Lar. bre,3.0,"10,3","9,01",1
+ART,P1,Lar. bre,4.0,8.4,8.15,1
+ART,P1,Sym. tes,1.0,12.0,"13,57",1
+ART,P1,Cat. spi,1.0,"9,2","6,55",1
+ART,P1,Cat. spi,2.0,"13,1","16,60",1
+ART,P1,Cat. spi,3.0,"14,3","18,37",1
+ART,P1,Cat. spi,4.0,"10,7","10,36",1
+ART,P1,Cat. spi,5.0,"12,6","14,54",1
+ART,P1,Cat. spi,6.0,"12,7","16,62",1
+ART,P1,Cat. spi,7.0,"12,5","12,99",1
+ART,P1,Cat. spi,8.0,"14,1","19,61",1
+ART,P1,Cat. spi,9.0,"15,4","30,88",1
+ART,P1,Cat. spi,10.0,"10,8","7,94",1
+ART,P1,Cat. spi,11.0,"9,8","6,38",1
+ART,P1,Cat. spi,12.0,16,"33,20",1
+ART,P1,Cat. spi,13.0,"14,8","24,89",1
+ART,P1,Cat. spi,14.0,"14,2","21,97",1
+ART,P1,Cat. spi,15.0,"15,3","27,02",1
+ART,P1,Cat. spi,16.0,10,"7,56",1
+ART,P1,Cat. spi,17.0,"14,1","17,40",1
+ART,P1,Cat. spi,18.0,"10,7","9,55",1
+ART,P1,Cat. spi,19.0,"10,5","7,62",1
+ART,P1,Cat. spi,20.0,"10,3","7,27",1
+ART,P1,Cat. spi,21.0,"13,5","18,28",1
+ART,P1,Cat. spi,22.0,"10,4","7,62",1
+ART,P1,Cat. spi,23.0,"10,6","8,64",1
+ART,P1,Cat. spi,24.0,"12,2","17,11",1
+ART,P1,Cat. spi,25.0,"9,7","10,82",1
+ART,P1,Cat. spi,26.0,"10,7","7,70",1
+ART,P1,Cat. spi,27.0,"11,9","11,66",1
+ART,P1,Cat. spi,28.0,"12,8","14,29",1
+ART,P1,Cat. spi,29.0,"14,6","21,16",1
+ART,P1,Cat. spi,30.0,"10,3","7,27",1
+ART,P1,Cat. spi,31.0,"16,7","37,85",1
+ART,P1,Cat. spi,32.0,"11,7","11,33",1
+ART,P1,Cat. spi,33.0,14,"24,68",1
+ART,P1,Cat. spi,34.0,10,"8,40",1
+ART,P1,Cat. spi,35.0,13,"16,94",1
+ART,P1,Cat. spi,36.0,"14,9","27,10",1
+ART,P1,Cat. spi,37.0,"13,4","13,48",1
+ART,P1,Cat. spi,38.0,"9,6","6,55",1
+ART,P1,Cat. spi,39.0,10,"7,71",1
+ART,P1,Cat. spi,40.0,"12,6","16,00",1
+ART,P1,Cat. spi,41.0,"10,5","7,65",1
+ART,P1,Cat. spi,42.0,"11,5","11,87",1
+ART,P1,Cat. spi,43.0,"13,7","18,01",1
+ART,P1,Cat. spi,44.0,"14,4","22,50",1
+ART,P1,Cat. spi,45.0,10,"8,53",1
+ART,P1,Cat. spi,46.0,"14,3","23,10",1
+ART,P1,Cat. spi,47.0,"14,4","18,01",1
+ART,P1,Cat. spi,48.0,14,"21,76",1
+ART,P1,Cat. spi,49.0,10,"7,62",1
+ART,P1,Cat. spi,50.0,"10,9","9,26",1
+ART,P1,Cat. spi,51.0,"13,2","17,11",1
+ART,P1,Cat. spi,52.0,"10,6","8,04",1
+ART,P1,Cat. spi,53.0,"9,4","6,21",1
+ART,P1,Cat. spi,54.0,"12,8","15,15",1
+ART,P1,Cat. spi,55.0,"12,3","15,92",1
+ART,P1,Cat. spi,56.0,"12,9","15,40",1
+ART,P1,Cat. spi,57.0,9,"7,46",1
+ART,P1,Cat. spi,58.0,"10,2","7,66",1
+ART,P1,Cat. spi,59.0,10,"8,13",1
+ART,P1,Cat. spi,60.0,12,"12,17",1
+ART,P1,Cat. spi,61.0,"12,9","18,60",1
+ART,P1,Cat. spi,62.0,"11,8","17,58",1
+ART,P1,Cat. spi,63.0,10,"8,31",1
+ART,P1,Cat. spi,64.0,"10,5","9,54",1
+ART,P1,Cat. spi,65.0,"13,9","21,34",1
+ART,P1,Cat. spi,66.0,"9,5","8,13",1
+ART,P1,Cat. spi,67.0,"10,5","10,18",1
+ART,P1,Cat. spi,68.0,10,"9,52",1
+ART,P1,Cat. spi,69.0,"10,4","10,24",1
+ART,P1,Cat. spi,70.0,12,"17,25",1
+ART,P1,Cat. spi,71.0,12,"17,82",1
+ART,P1,Cat. spi,72.0,"10,6","9,43",1
+ART,P1,Cat. spi,73.0,11,"10,91",1
+ART,P1,Cat. spi,74.0,"16,4","38,68",1
+ART,P1,Cat. spi,75.0,"11,5","15,79",1
+ART,P1,Cat. spi,76.0,10,"8,99",1
+ART,P1,Cat. spi,77.0,9,"6,94",1
+ART,P1,Cat. spi,78.0,13,"12,45",1
+ART,P1,Cat. spi,79.0,10,"8,72",1
+ART,P1,Cat. spi,80.0,"11,3","10,54",1
+ART,P1,Cat. spi,81.0,10,"17,70",1
+ART,P1,Cat. spi,82.0,"10,2","24,43",1
+ART,P1,Cat. spi,83.0,"13,5","8,73",1
+ART,P1,Cat. spi,84.0,"12,9","9,89",1
+ART,P1,Cat. spi,85.0,"10,9","11,64",1
+ART,P1,Cat. spi,86.0,"10,1","10,64",1
+ART,P1,Cat. spi,87.0,11,"24,92",1
+ART,P1,Cat. spi,88.0,10,"7,65",1
+ART,P1,Cat. spi,89.0,"10,8","7,41",1
+ART,P1,Cat. spi,90.0,"10,5","10,45",1
+ART,P1,Cat. spi,91.0,"9,5","7,56",1
+ART,P1,Cat. spi,92.0,"9,5","8,53",1
+ART,P1,Cat. spi,93.0,"9,7","7,86",1
+ART,P1,Cat. spi,94.0,"10,5","9,02",1
+ART,P1,Cat. spi,95.0,10,"7,79",1
+ART,P1,Cat. spi,96.0,"10,4","14,07",1
+ART,P1,Cat. spi,97.0,"12,3","13,37",1
+ART,P1,Cat. spi,98.0,"9,7","7,91",1
+ART,P1,Cat. spi,99.0,"10,4","9,49",1
+ART,P1,Cat. spi,100.0,"15,4","30,37",1
+ART,P1,Cat. spi,101.0,"13,4","20,23",1
+ART,P1,Cat. spi,102.0,"10,5","10,02",1
+ART,P1,Cat. spi,103.0,"10,1","8,25",1
+ART,P1,Cat. spi,104.0,"11,1","10,45",1
+ART,P1,Cat. spi,105.0,"10,3","9,74",1
+ART,P1,Cat. spi,106.0,"10,7","9,87",1
+ART,P1,Cat. spi,107.0,"9,8","6,75",1
+ART,P1,Cat. spi,108.0,"10,3","8,61",1
+ART,P1,Cat. spi,109.0,"13,3","19,81",1
+ART,P1,Cat. spi,110.0,"10,2","10,23",1
+ART,P1,Cat. spi,111.0,"10,6","10,73",1
+ART,P1,Cat. spi,112.0,"12,9","18,31",1
+ART,P1,Cat. spi,113.0,"11,6","11,30",1
+ART,P1,Cat. spi,114.0,10,"8,46",1
+ART,P1,Cat. spi,115.0,"10,4","10,03",1
+ART,P1,Cat. spi,116.0,"11,8","14,28",1
+ART,P1,Cat. spi,117.0,"11,6","12,45",1
+ART,P1,Cat. spi,118.0,10,"8,10",1
+ART,P1,Cat. spi,119.0,"9,7","7,69",1
+ART,P1,Cat. spi,120.0,"10,1","8,91",1
+ART,P1,Cat. spi,121.0,"10,3","9,53",1
+ART,P1,Cat. spi,122.0,"11,2","12,03",1
+ART,P1,Cat. spi,123.0,"10,2","8,86",1
+ART,P1,Cat. spi,124.0,"10,4","8,58",1
+ART,P1,Cat. spi,125.0,"9,5","9,45",1
+ART,P1,Cat. spi,126.0,"8,6","4,99",1
+ART,P1,Cat. spi,127.0,10,"5,51",1
+ART,P1,Anc. bre,1.0,"5,5","1,00",1
+ART,P1,Anc. bre,2.0,"5,6","0,95",1
+ART,P1,Anc. bre,3.0,"6,0","1,02",1
+ART,P1,Anc. bre,4.0,"5,0","0,48",1
+ART,P1,Anc. bre,5.0,"6,9","1,60",1
+ART,P1,Anc. bre,6.0,"5,0","0,98",1
+ART,P1,Cet. ede,1.0,"9,5","6,37",1
+ART,P1,Cet. ede,2.0,"13,8","19,60",1
+ART,P1,Cet. ede,3.0,"9,8","95,37",1
+ART,P1,Cet. ede,4.0,"8,7","3,63",1
+ART,P1,Cet. ede,5.0,9.5,6.19,1
+ART,P1,Cet. ede,6.0,13,18.84,1
+ART,P1,Cet. ede,7.0,12.5,18.03,1
+ART,P1,Cet. ede,8.0,9.1,5.78,1
+ART,P1,Cet. ede,9.0,10.4,3.38,1
+ART,P1,Ort. rub,1.0,"8,6","7,58",1
+ART,P1,Ort. rub,2.0,8,"4,95",1
+ART,P1,Ort. rub,3.0,8,"4,71",1
+ART,P1,Ort. rub,4.0,7,"3,85",1
+ART,P1,Pte. ath,1.0,"8,5","1,98",1
+ART,P1,Bag. mar,1.0,"16,8","32,01",1
+ART,P1,Bag. mar,2.0,"18,3","42,16",1
+ART,P1,Bag. mar,3.0,"18,4","40,11",1
+ART,P1,Bag. mar,4.0,19,"48,07",1
+ART,P1,Bag. mar,5.0,"14,1","16,31",1
+ART,P1,Gen. pla,1.0,"10,7","7,69",1
+ART,P1,Gen. pla,2.0,10,"7,73",1
+ART,P1,Gen. pla,3.0,"12,2","13,32",1
+ART,P1,Gen. pla,4.0,10,"7,33",1
+ART,P1,Gen. pla,5.0,"9,6","6,56",1
+ART,P1,Gen. pla,6.0,"9,9","6,69",1
+ART,P1,Gen. pla,7.0,"10,3","7,96",1
+ART,P1,Gen. pla,8.0,"10,8","9,18",1
+ART,P1,Gen. pla,9.0,"7,6","2,67",1
+ART,P1,Gen. pla,10.0,"18,0","34,67",1
+ART,P1,Gen. pla,11.0,"9,6","7,81",1
+ART,P1,Gen. pla,12.0,"10,0","7,93",1
+ART,P1,Gen. pla,13.0,"10,1","8,45",1
+ART,P1,Asp. lun,1.0,"13,4","16,41",1
+ART,P1,Asp. lun,2.0,12,"13,05",1
+ART,P1,Asp. lun,3.0,"11,2","10,94",1
+ART,P1,Asp. lun,4.0,"8,9","4,25",1
+ART,P1,Asp. lun,5.0,11,"8,53",1
+ART,P1,Asp. lun,6.0,"19,2","63,30",1
+ART,P1,Asp. lun,7.0,"16,3","31,89",1
+ART,P1,Asp. lun,8.0,"8,7","3,75",1
+ART,P1,Asp. lun,9.0,12,"11,62",1
+ART,P1,Asp. lun,10.0,"10,5","6,57",1
+ART,P1,Asp. lun,11.0,"9,4","4,65",1
+ART,P1,Asp. lun,12.0,"15,3","26,03",1
+ART,P1,Asp. lun,13.0,"11,5","9,71",1
+ART,P1,Asp. lun,14.0,"9,8","5,22",1
+ART,P1,Asp. lun,15.0,"6,5","7,06",1
+ART,P1,Asp. lun,16.0,"10,6","6,78",1
+ART,P1,Asp. lun,17.0,8,"2,98",1
+ART,P1,Asp. lun,18.0,"8,5","3,51",1
+ART,P1,Asp. lun,19.0,"8,9","4,88",1
+ART,P1,Asp. lun,20.0,"11,3","11,72",1
+ART,P1,Asp. lun,21.0,"18,1","51,47",1
+ART,P1,Asp. lun,22.0,"10,9","10,99",1
+ART,P1,Asp. lun,23.0,"10,2","6,48",1
+ART,P1,Asp. lun,24.0,"10,6","8,83",1
+ART,P1,Asp. lun,25.0,"11,5","10,04",1
+ART,P1,Asp. lun,26.0,"9,5","5,08",1
+ART,P1,Asp. lun,27.0,"10,1","8,42",1
+ART,P1,Asp. lun,28.0,"9,6","6,76",1
+ART,P1,Asp. lun,29.0,"11,8","12,84",1
+ART,P1,Asp. lun,30.0,"13,8","18,74",1
+ART,P1,Asp. lun,31.0,"18,5","71,12",1
+ART,P1,Asp. lun,32.0,"10,0","6,99",1
+ART,P1,Asp. lun,33.0,"9,0","8,91",1
+ART,P1,Asp. lun,34.0,"11,0","12,72",1
+ART,P1,Asp. lun,35.0,"10,0","8,66",1
+ART,P1,Asp. lun,36.0,"10,2","8,33",1
+ART,P1,Asp. lun,37.0,"10,5","6,76",1
+ART,P1,Asp. lun,38.0,"9,5","6,08",1
+ART,P1,Asp. lun,39.0,"8,5","3,84",1
+ART,P1,Asp. lun,40.0,"13,0","19,25",1
+ART,P1,Asp. lun,41.0,"8,5","4,52",1
+ART,P1,Asp. lun,42.0,"12,2","13,85",1
+ART,P1,Asp. lun,43.0,"11,5","12,20",1
+ART,P1,Asp. lun,44.0,"10,0","7,17",1
+ART,P1,Asp. lun,45.0,"8,0","4,25",1
+ART,P1,Asp. lun,46.0,"10,5","8,69",1
+ART,P1,Asp. lun,47.0,"11,0","8,79",1
+ART,P1,Asp. lun,48.0,"1,5","3,56",1
+ART,P1,Asp. lun,49.0,"9,7","6,74",1
+ART,P1,Asp. lun,50.0,"9,0","4,51",1
+ART,P1,Asp. lun,51.0,"8,0","3,50",1
+ART,P1,Asp. lun,52.0,"10,0","8,19",1
+ART,P1,Asp. lun,53.0,"8,0","3,36",1
+ART,P1,Asp. lun,54.0,"8,8","4,11",1
+ART,P1,Asp. lun,55.0,"11,5","11,61",1
+ART,P1,Asp. lun,56.0,"8,9","4,42",1
+ART,P1,Asp. lun,57.0,"10,0","9,03",1
+ART,P1,Asp. lun,58.0,"12,3","15,68",1
+ART,P1,Asp. lun,59.0,"11,7","11,24",1
+ART,P1,Asp. lun,60.0,"11,5","11,36",1
+ART,P1,Asp. lun,61.0,"9,5","6,00",1
+ART,P1,Asp. lun,62.0,"11,4","10,67",1
+ART,P1,Asp. lun,63.0,"11,3","11,21",1
+ART,P1,Asp. lun,64.0,"14,8","27,10",1
+ART,P1,Asp. lun,65.0,"8,9","4,76",1
+ART,P1,Asp. lun,66.0,"12,0","11,61",1
+ART,P1,Asp. lun,67.0,"11,1","11,24",1
+ART,P1,Asp. lun,68.0,"10,5","9,32",1
+ART,P1,Asp. lun,69.0,"9,0","4,80",1
+ART,P1,Asp. lun,70.0,"10,6","8,51",1
+ART,P1,Asp. lun,71.0,"8,9","5,38",1
+ART,P1,Asp. lun,72.0,"9,7","7,22",1
+ART,P1,Asp. lun,73.0,"14,0","20,88",1
+ART,P1,Asp. lun,74.0,"11,0","11,17",1
+ART,P1,Asp. lun,75.0,"9,7","3,36",1
+ART,P1,Asp. lun,76.0,"12,4","17,08",1
+ART,P1,Asp. lun,77.0,"15,2","24,52",1
+ART,P1,Asp. lun,78.0,"5,7","6,10",1
+ART,P1,Sel.vom,1.0,"31,00","203,72",1
+ART,P1,Sel.vom,2.0,"25,50","147,22",1
+ART,P1,Sel.vom,3.0,"9,10","7,55",1
+ART,P1,Sel.vom,4.0,"10,30","9,88",1
+ART,P1,Amp.rug,1.0,"9,5","7,98",1
+ART,P1,Amp.rug,2.0,"10,0","8,39",1
+ART,P1,Amp.rug,3.0,"10,0","9,94",1
+ART,P1,Amp.rug,4.0,"9,0","7,99",1
+ART,P1,Amp.rug,5.0,"9,8","8,24",1
+ART,P1,Amp.rug,6.0,"10,0","8,12",1
+ART,P1,Amp.rug,7.0,"9,5","8,26",1
+ART,P1,Amp.rug,8.0,"10,0","8,51",1
+ART,P1,Amp.rug,9.0,"9,5","7,96",1
+ART,P1,Amp.rug,10.0,"9,5","7,68",1
+ART,P1,Amp.rug,11.0,"12,0","16,75",1
+ART,P1,Amp.rug,12.0,"9,8","7,19",1
+ART,P1,Amp.rug,13.0,"9,6","7,79",1
+ART,P1,Amp.rug,14.0,"10,5","9,96",1
+ART,P1,Amp.rug,15.0,"9,5","9,36",1
+ART,P1,Amp.rug,16.0,"9,0","7,67",1
+ART,P1,Amp.rug,17.0,"9,5","7,46",1
+ART,P1,Amp.rug,18.0,"11,0","9,75",1
+ART,P1,Amp.rug,19.0,"10,5","7,31",1
+ART,P1,Bag.bag,1.0,"17,0","40,96",1
+ART,P1,Bag.bag,2.0,"16,5","35,40",1
+ART,P1,Bag.bag,3.0,"15,0","30,05",1
+ART,P1,Bag.bag,4.0,"15,0","24,76",1
+ART,P1,Sco.bra,1.0,"12,0","6,14",1
+ART,P1,Men.ame,1.0,"6,0","0,99",1
+ART,P1,Etr.cro,1.0,"12,0","13,72",1
+ART,P1,Etr.cro,2.0,"13,3","19,59",1
+ART,P2,Bag. mar,1.0,"14,3","16,85",2
+ART,P2,Gen. pla,1.0,"14,9","27,85",2
+ART,P2,Cat. spi,1.0,"15,3","20,3",2
+ART,P2,Anc.clu,1.0,"7,6","2,05",2
+ART,P2,Sph.bar,1.0,"25,0","73,79",2
+ART,P2,Sph.bar,2.0,"26,0","85,00",2
+ART,P2,Sph.bar,3.0,"30,0","104,86",2
+ART,P2,Sph.bar,4.0,"29,0","94,96",2
+ART,P2,Sph.bar,5.0,"27,0","98,95",2
+ART,P2,Sph.bar,6.0,"25,5","75,66",2
+ART,P2,Sph.bar,7.0,"23,0","54,20",2
+ART,P2,Sph.bar,8.0,"27,0","101,23",2
+ART,P2,Sph.bar,9.0,"26,0","79,93",2
+ART,P2,Sph.bar,10.0,"28,0","118,04",2
+ART,P2,Sph.bar,11.0,"26,8","97,77",2
+ART,P2,Sph.bar,12.0,"26,7","88,04",2
+ART,P2,Sph.bar,13.0,"28,0","101,14",2
+ART,P2,Sph.bar,14.0,"29,5","107,19",2
+ART,P2,Sph.bar,15.0,"25,0","64,39",2
+ART,P2,Sph.bar,16.0,"25,3","81,17",2
+ART,P2,Sph.bar,17.0,"29,5","93,08",2
+ART,P2,Sph.bar,18.0,"26,0","89,76",2
+ART,P2,Sph.bar,19.0,"26,0","68,27",2
+ART,P2,Sph.bar,20.0,"26,5","49,32",2
+ART,P2,Sph.bar,21.0,"25,5","77,96",2
+ART,P2,Sph.bar,22.0,"23,5","68,05",2
+ART,P2,Sph.bar,23.0,"26,8","90,69",2
+ART,P2,Sph.bar,24.0,"22,5","56,93",2
+ART,P2,Sph.bar,25.0,"21,7","46,55",2
+ART,P2,Sph.bar,26.0,"25,7","83,14",2
+ART,P2,Sph.bar,27.0,"26,0","86,77",2
+ART,P2,Opi.ogl,1.0,"9,0","5,95",2
+ART,P2,Opi.ogl,2.0,"26,0","147,16",2
+ART,P2,Opi.ogl,3.0,"12,0","14,25",2
+ART,P2,Opi.ogl,4.0,"12,5","16,57",2
+ART,P2,Opi.ogl,5.0,"11,5","10,85",2
+ART,P2,Opi.ogl,6.0,"8,5","5,41",2
+ART,P2,Opi.ogl,7.0,"10,9","10,44",2
+ART,P2,Opi.ogl,8.0,"9,0","5,70",2
+ART,P2,Opi.ogl,9.0,"10,0","7,86",2
+ART,P2,Opi.ogl,10.0,"10,1","11,08",2
+ART,P2,Opi.ogl,11.0,"13,0","17,10",2
+ART,P2,Opi.ogl,12.0,"11,0","10,46",2
+ART,P2,Opi.ogl,13.0,"7,5","3,20",2
+ART,P2,Opi.ogl,14.0,"8,5","5,01",2
+ART,P2,Opi.ogl,15.0,"8,0","4,83",2
+ART,P2,Opi.ogl,16.0,"8,3","4,65",2
+ART,P2,Opi.ogl,17.0,"9,3","6,12",2
+ART,P2,Opi.ogl,18.0,"8,0","4,09",2
+ART,P2,Opi.ogl,19.0,"12,3","12,97",2
+ART,P2,Opi.ogl,20.0,"8,5","5,55",2
+ART,P2,Opi.ogl,21.0,"9,0","5,75",2
+ART,P2,Opi.ogl,22.0,"9,0","5,63",2
+ART,P2,Opi.ogl,23.0,"15,4","31,55",2
+ART,P2,Opi.ogl,24.0,12.6,"24,73",2
+ART,P2,Opi.ogl,25.0,"10,1","8,22",2
+ART,P2,Opi.ogl,26.0,"11,0","9,67",2
+ART,P2,Opi.ogl,27.0,"10,6","8,79",2
+ART,P2,Opi.ogl,28.0,"10,7","8,11",2
+ART,P2,Opi.ogl,29.0,"10,6","9,22",2
+ART,P2,Opi.ogl,30.0,"8,1","3,34",2
+ART,P2,Opi.ogl,31.0,"9,9","7,16",2
+ART,P2,Opi.ogl,32.0,"8,7","3,36",2
+ART,P2,Opi.ogl,33.0,"8,7","4,41",2
+ART,P2,Opi.ogl,34.0,"9,5","5,32",2
+ART,P2,Opi.ogl,35.0,"9,0","5,11",2
+ART,P2,Opi.ogl,36.0,"7,8","2,85",2
+ART,P2,Opi.ogl,37.0,"8,4","4,10",2
+ART,P2,Opi.ogl,38.0,"11,5","12,02",2
+ART,P2,Opi.ogl,39.0,"10,0","6,33",2
+ART,P2,Opi.ogl,40.0,"10,6","9,20",2
+ART,P2,Opi.ogl,41.0,"10,7","8,18",2
+ART,P2,Opi.ogl,42.0,"8,7","4,26",2
+ART,P2,Opi.ogl,43.0,"8,5","4,60",2
+ART,P2,Opi.ogl,44.0,"7,8","3,06",2
+ART,P2,Opi.ogl,45.0,"10,7","7,73",2
+ART,P2,Opi.ogl,46.0,"7,5","2,82",2
+ART,P2,Opi.ogl,47.0,"8,1","3,44",2
+ART,P2,Opi.ogl,48.0,"8,7","4,32",2
+ART,P2,Opi.ogl,49.0,"10,4","8,70",2
+ART,P2,Opi.ogl,50.0,"8,0","3,24",2
+ART,P2,Opi.ogl,51.0,"7,7","3,06",2
+ART,P2,Opi.ogl,52.0,"8,8","4,91",2
+ART,P2,Opi.ogl,53.0,"8,5","3,31",2
+ART,P2,Opi.ogl,54.0,"7,8","3,30",2
+ART,P2,Opi.ogl,55.0,"8,0","3,25",2
+ART,P2,Opi.ogl,56.0,"9,2","5,19",2
+ART,P2,Opi.ogl,57.0,"7,9","3,46",2
+ART,P2,Opi.ogl,58.0,"8,5","4,33",2
+ART,P2,Opi.ogl,59.0,"8,3","3,78",2
+ART,P2,Opi.ogl,60.0,"7,2","2,30",2
+ART,P2,Opi.ogl,61.0,"9,3","5,14",2
+ART,P2,Opi.ogl,62.0,"7,5","2,91",2
+ART,P2,Opi.ogl,63.0,"8,1","3,27",2
+ART,P2,Opi.ogl,64.0,"8,4","3,77",2
+ART,P2,Opi.ogl,65.0,"11,0","8,66",2
+ART,P2,Opi.ogl,66.0,"8,6","4,39",2
+ART,P2,Opi.ogl,67.0,"8,2","3,39",2
+ART,P2,Opi.ogl,68.0,"8,6","4,66",2
+ART,P2,Opi.ogl,69.0,"9,9","6,50",2
+ART,P2,Opi.ogl,70.0,"9,1","4,81",2
+ART,P2,Opi.ogl,71.0,"7,6","5,37",2
+ART,P2,Opi.ogl,72.0,"9,3","3,49",2
+ART,P2,Opi.ogl,73.0,"7,9","2,80",2
+ART,P2,Opi.ogl,74.0,"7,5","2,87",2
+ART,P2,Opi.ogl,75.0,"7,5","3,25",2
+ART,P2,Opi.ogl,76.0,"9,2","5,40",2
+ART,P2,Opi.ogl,77.0,"7,5","2,87",2
+ART,P2,Opi.ogl,78.0,"7,5","3,25",2
+ART,P2,Opi.ogl,79.0,"9,2","5,40",2
+ART,P2,Opi.ogl,80.0,"7,5","2,16",2
+ART,P2,Opi.ogl,81.0,"7,5","2,16",2
+ART,P2,Opi.ogl,82.0,"7,7","2,82",2
+ART,P2,Opi.ogl,83.0,"8,3","3,10",2
+ART,P2,Opi.ogl,84.0,"8,7","4,11",2
+ART,P2,Opi.ogl,85.0,"9,9","6,68",2
+ART,P2,Opi.ogl,86.0,"8,0","3,58",2
+ART,P2,Opi.ogl,87.0,"8,7","4,64",2
+ART,P2,Opi.ogl,88.0,"9,2","5,02",2
+ART,P2,Opi.ogl,89.0,"9,7","5,04",2
+ART,P2,Opi.ogl,90.0,"8,6","4,17",2
+ART,P2,Opi.ogl,91.0,"8,1","3,12",2
+ART,P2,Opi.ogl,92.0,"9,1","5,44",2
+ART,P2,Opi.ogl,93.0,"7,6","2,64",2
+ART,P2,Opi.ogl,94.0,"8,5","3,89",2
+ART,P2,Opi.ogl,95.0,"10,4","5,96",2
+ART,P2,Opi.ogl,96.0,"9,2","5,33",2
+ART,P2,Opi.ogl,97.0,"10,5","7,90",2
+ART,P2,Opi.ogl,98.0,"10,5","7,42",2
+ART,P2,Opi.ogl,99.0,"10,0","6,35",2
+ART,P2,Opi.ogl,100.0,"10,2","10,24",2
+ART,P2,Opi.ogl,101.0,"9,2","5,37",2
+ART,P2,Opi.ogl,102.0,"7,7","3,46",2
+ART,P2,Opi.ogl,103.0,"9,0","4,70",2
+ART,P2,Opi.ogl,104.0,"9,1","4,76",2
+ART,P2,Opi.ogl,105.0,"10,1","6,80",2
+ART,P2,Opi.ogl,106.0,"10,4","7,40",2
+ART,P2,Opi.ogl,107.0,"9,4","4,63",2
+ART,P2,Opi.ogl,108.0,"9,0","4,61",2
+ART,P2,Opi.ogl,109.0,"6,9","2,58",2
+ART,P2,Opi.ogl,110.0,"8,9","4,58",2
+ART,P2,Opi.ogl,111.0,"9,5","5,71",2
+ART,P2,Opi.ogl,112.0,"8,5","4,38",2
+ART,P2,Opi.ogl,113.0,"7,4","2,51",2
+ART,P2,Opi.ogl,114.0,"7,9","3,06",2
+ART,P2,Opi.ogl,115.0,"10,4","6,79",2
+ART,P2,Opi.ogl,116.0,"7,9","3,54",2
+ART,P2,Opi.ogl,117.0,"9,2","4,42",2
+ART,P2,Opi.ogl,118.0,"8,4","3,81",2
+ART,P2,Opi.ogl,119.0,"8,5","4,16",2
+ART,P2,Opi.ogl,120.0,"7,5","2,58",2
+ART,P2,Opi.ogl,121.0,"8,5","4,96",2
+ART,P2,Opi.ogl,122.0,"7,7","3,01",2
+ART,P2,Opi.ogl,123.0,"8,2","5,63",2
+ART,P2,Opi.ogl,124.0,"8,3","4,51",2
+ART,P2,Opi.ogl,125.0,"10,2","7,4",2
+ART,P2,Opi.ogl,126.0,"10,6","9,37",2
+ART,P2,Opi.ogl,127.0,"7,9","3,33",2
+ART,P2,Opi.ogl,128.0,"7,9","3,69",2
+ART,P2,Opi.ogl,129.0,"10,2","7,13",2
+ART,P2,Opi.ogl,130.0,"9,9","6,44",2
+ART,P2,Opi.ogl,131.0,"9,9","4,47",2
+ART,P2,Opi.ogl,132.0,"9,5","6,12",2
+ART,P2,Opi.ogl,133.0,"7,9","3,61",2
+ART,P2,Opi.ogl,134.0,"8,5","4,39",2
+ART,P2,Opi.ogl,135.0,"8,4","4,27",2
+ART,P2,Opi.ogl,136.0,"7,1","2,79",2
+ART,P2,Opi.ogl,137.0,"8,5","4,26",2
+ART,P2,Opi.ogl,138.0,"6,6","6,33",2
+ART,P2,Opi.ogl,139.0,"9,0","5,34",2
+ART,P2,Opi.ogl,140.0,"8,1","3,90",2
+ART,P2,Opi.ogl,141.0,"8,3","3,29",2
+ART,P2,Opi.ogl,142.0,"10,2","7,63",2
+ART,P2,Opi.ogl,143.0,"6,0","1,42",2
+ART,P2,Opi.ogl,144.0,"8,1","3,90",2
+ART,P2,Opi.ogl,145.0,"8,3","3,29",2
+ART,P2,Opi.ogl,146.0,"10,2","7,63",2
+ART,P2,Opi.ogl,147.0,"6,0","1,42",2
+ART,P2,Opi.ogl,148.0,"8,1","3,21",2
+ART,P2,Opi.ogl,149.0,"7,6","3,38",2
+ART,P2,Opi.ogl,150.0,"8,6","4,47",2
+ART,P2,Opi.ogl,151.0,"9,6","6,42",2
+ART,P2,Opi.ogl,152.0,"8,0","3,19",2
+ART,P2,Opi.ogl,153.0,"10,1","7,81",2
+ART,P2,Opi.ogl,154.0,"7,8","3,55",2
+ART,P2,Opi.ogl,155.0,"9,0","5,04",2
+ART,P2,Opi.ogl,156.0,"7,9","3,55",2
+ART,P2,Opi.ogl,157.0,"7,8","3,05",2
+ART,P2,Opi.ogl,158.0,"8,7","4,05",2
+ART,P2,Opi.ogl,159.0,"9,0","5,19",2
+ART,P2,Opi.ogl,160.0,"8,0","3,21",2
+ART,P2,Opi.ogl,161.0,"10,0","6,56",2
+ART,P2,Opi.ogl,162.0,"8,2","3,25",2
+ART,P2,Opi.ogl,163.0,"7,6","3,17",2
+ART,P2,Opi.ogl,164.0,"8,6","4,57",2
+ART,P2,Opi.ogl,165.0,"8,2","4,15",2
+ART,P2,Opi.ogl,166.0,"7,9","3,95",2
+ART,P2,Opi.ogl,167.0,"8,1","3,99",2
+ART,P2,Opi.ogl,168.0,"9,1","5,43",2
+ART,P2,Opi.ogl,169.0,"9,9","7,00",2
+ART,P2,Opi.ogl,170.0,"7,5","3,40",2
+ART,P2,Dia.aur,1.0,"16,0","52,46",2
+ART,P2,Dia.aur,2.0,"15,5","59,44",2
+ART,P2,Sco.bra,1.0,"28,0","114,27",2
+ART,P2,Sco.bra,2.0,"23,0","71,84",2
+ART,P2,Sco.bra,3.0,"19,0","40,56",2
+ART,P2,Sco.bra,4.0,"23,1","68,14",2
+ART,P2,Sco.bra,5.0,"22,0","51,62",2
+ART,P2,Sco.bra,6.0,"24,0","85,01",2
+ART,P2,Elo.sau,1.0,"39,5","589,30",2
+ART,P2,Elo.sau,2.0,"31,4","131,85",2
+ART,P2,Elo.sau,3.0,"33,0","151,71",2
+ART,P2,Elo.sau,4.0,"34,0","183,73",2
+ART,P2,Chl.chr,1.0,"10,3","11,11",2
+ART,P2,Chl.chr,2.0,"10,5","12,73",2
+ART,P2,Chl.chr,3.0,"11,5","20,94",2
+ART,P2,Chl.chr,4.0,"11,6","17,91",2
+ART,P2,Chl.chr,5.0,"12,5","20,00",2
+ART,P2,Chl.chr,6.0,"11,5","13,27",2
+ART,P2,Chl.chr,7.0,"12,5","16,72",2
+ART,P2,Chl.chr,8.0,"10,5","10,73",2
+ART,P2,Chl.chr,9.0,"10,2","8,22",2
+ART,P2,Chl.chr,10.0,"12,0","14,50",2
+ART,P2,Chl.chr,11.0,"11,6","12,42",2
+ART,P2,Chl.chr,12.0,"11,2","10,68",2
+ART,P2,Chl.chr,13.0,"10,7","9,41",2
+ART,P2,Chl.chr,14.0,"11,6","12,78",2
+ART,P2,Chl.chr,15.0,"11,9","13,69",2
+ART,P2,Pte.ath,1.0,"8,0","3,50",2
+ART,P2,Pte.ath,2.0,"7,6","4,84",2
+ART,P2,Pte.ath,3.0,"7,5","4,24",2
+ART,P2,Pte.ath,4.0,"7,3","3,99",2
+ART,P2,Pte.ath,5.0,"7,4","4,16",2
+ART,P2,Hae.cor,1.0,"9,0","8,47",2
+ART,P2,Euc.arg,1.0,"7,7","4,51",2
+ART,P3,Con. nob,1.0,9.0,8.21,3
+ART,P3,Con. nob,2.0,7.5,7.68,3
+ART,P3,Con. nob,3.0,6.2,2.67,3
+ART,P3,Cet. ede,1.0,14.4,19.88,3
+ART,P3,Cet. ede,2.0,15.4,24.07,3
+ART,P3,Hae. cor,1.0,15.5,46.46,3
+ART,P3,Hae. cor,2.0,8.6,7.3,3
+ART,P3,Hae. cor,3.0,6.9,3.4,3
+ART,P3,Hae. cor,4.0,7.1,3.9,3
+ART,P3,Hae. cor,5.0,7.0,4.25,3
+ART,P3,Cat. spi,1.0,12.0,13.06,3
+ART,P3,Men. ame,1.0,10.0,8.56,3
+ART,P3,Men. ame,2.0,10.3,10.31,3
+ART,P3,Men. ame,3.0,8.4,6.2,3
+ART,P3,Lyc ssp,1.0,8.6,3.32,3
+ART,P3,Lyc ssp,2.0,7.2,1.76,3
+ART,P3,Lyc ssp,3.0,8.3,2.79,3
+ART,P3,Lyc ssp,4.0,8.4,2.69,3
+ART,P3,Lyc ssp,5.0,7.4,2.03,3
+ART,P3,Lyc ssp,6.0,8.0,1.36,3
+ART,P3,Lyc ssp,7.0,8.1,2.42,3
+ART,P3,Lyc ssp,8.0,7.5,1.98,3
+ART,P3,Lyc ssp,9.0,7.4,1.71,3
+ART,P3,Lyc ssp,10.0,6.9,1.66,3
+ART,P3,Lyc ssp,11.0,7.6,2.11,3
+ART,P3,Lyc ssp,12.0,8.2,2.78,3
+ART,P3,Opi. ogl,1,10.1,7.53,3
+ART,P3,Opi. ogl,2,8.8,3.96,3
+ART,P3,Opi. ogl,3,10.2,5.97,3
+ART,P3,Opi. ogl,4,8.4,3.32,3
+ART,P3,Opi. ogl,5,7.3,2.53,3
+ART,P3,Opi. ogl,6,8.3,3.43,3
+ART,P3,Opi. ogl,7,9.8,5.72,3
+ART,P3,Opi. ogl,8,6.6,1.51,3
+ART,P3,Opi. ogl,9,7.4,2.2,3
+ART,P3,Opi. ogl,10,8.6,3.67,3
+ART,P3,Opi. ogl,11,7.6,2.79,3
+ART,P3,Opi. ogl,12,7.5,2.37,3
+ART,P3,Opi. ogl,13,7.5,2.45,3
+ART,P3,Opi. ogl,14,7.7,2.47,3
+ART,P3,Opi. ogl,15,7.4,2.32,3
+ART,P3,Opi. ogl,16,7.2,2.24,3
+ART,P3,Opi. ogl,17,7.0,2.02,3
+ART,P3,Opi. ogl,18,9.8,5.72,3
+ART,P3,Opi. ogl,19,7.3,3.23,3
+ART,P3,Opi. ogl,20,7.3,2.74,3
+ART,P3,Opi. ogl,21,7.9,2.7,3
+ART,P3,Opi. ogl,22,9.2,5.27,3
+ART,P3,Opi. ogl,23,9.7,6.67,3
+ART,P3,Opi. ogl,24,6.9,1.95,3
+ART,P3,Opi. ogl,25,7.2,2.37,3
+ART,P3,Opi. ogl,26,7.5,2.8,3
+ART,P3,Opi. ogl,27,8.1,3.21,3
+ART,P3,Opi. ogl,28,7.9,2.55,3
+ART,P3,Opi. ogl,29,8.0,2.71,3
+ART,P3,Opi. ogl,30,7.2,2.38,3
+ART,P3,Opi. ogl,31,7.1,2.13,3
+ART,P3,Opi. ogl,32,7.3,2.6,3
+ART,P3,Opi. ogl,33,7.5,2.69,3
+ART,P3,Opi. ogl,34,7.5,2.58,3
+ART,P3,Opi. ogl,35,7.5,2.66,3
+ART,P3,Opi. ogl,36,7.4,2.56,3
+ART,P3,Opi. ogl,37,8.5,3.6,3
+ART,P3,Opi. ogl,38,7.7,3.07,3
+ART,P3,Opi. ogl,39,7.5,2.77,3
+ART,P3,Opi. ogl,40,7.3,2.39,3
+ART,P3,Opi. ogl,41,7.1,2.7,3
+ART,P3,Opi. ogl,42,7.0,2.56,3
+ART,P3,Opi. ogl,43,8.0,3.23,3
+ART,P3,Opi. ogl,44,7.5,2.93,3
+ART,P3,Opi. ogl,45,8.0,3.31,3
+ART,P3,Opi. ogl,46,7.5,2.8,3
+ART,P3,Opi. ogl,47,6.9,2.26,3
+ART,P3,Opi. ogl,48,7.3,2.47,3
+ART,P3,Opi. ogl,49,8.5,4.95,3
+ART,P3,Opi. ogl,50,7.6,2.7,3
+ART,P3,Opi. ogl,51,7.9,2.97,3
+ART,P3,Opi. ogl,52,7.1,2.35,3
+ART,P3,Opi. ogl,53,8.3,3.74,3
+ART,P3,Opi. ogl,54,7.4,2.51,3
+ART,P3,Opi. ogl,55,8.0,3.84,3
+ART,P3,Opi. ogl,56,8.2,3.21,3
+ART,P3,Opi. ogl,57,6.9,2.53,3
+ART,P3,Opi. ogl,58,7.5,2.72,3
+ART,P3,Opi. ogl,59,7.6,2.77,3
+ART,P3,Opi. ogl,60,7.4,2.58,3
+ART,P3,Opi. ogl,61,7.1,2.72,3
+ART,P3,Opi. ogl,62,7.3,2.52,3
+ART,P3,Opi. ogl,63,7.5,2.78,3
+ART,P3,Opi. ogl,64,7.7,2.57,3
+ART,P3,Opi. ogl,65,8.0,3.21,3
+ART,P3,Opi. ogl,66,8.0,3.06,3
+ART,P3,Opi. ogl,67,8.2,2.97,3
+ART,P3,Opi. ogl,68,7.4,2.81,3
+ART,P3,Opi. ogl,69,8.2,3.96,3
+ART,P3,Opi. ogl,70,9.3,5.08,3
+ART,P3,Opi. ogl,71,7.6,2.74,3
+ART,P3,Opi. ogl,72,8.0,2.65,3
+ART,P3,Opi. ogl,73,9.5,6.37,3
+ART,P3,Opi. ogl,74,8.5,4.1,3
+ART,P3,Opi. ogl,75,8.0,3.29,3
+ART,P3,Opi. ogl,76,7.0,2.47,3
+ART,P3,Opi. ogl,77,6.9,2.53,3
+ART,P3,Opi. ogl,78,6.6,2.34,3
+ART,P3,Opi. ogl,79,8.3,2.77,3
+ART,P3,Opi. ogl,80,7.0,2.62,3
+ART,P3,Opi. ogl,81,7.5,2.55,3
+ART,P3,Opi. ogl,82,9.6,5.77,3
+ART,P3,Opi. ogl,83,7.0,2.16,3
+ART,P3,Opi. ogl,84,8.5,4.28,3
+ART,P3,Opi. ogl,85,7.0,2.81,3
+ART,P3,Opi. ogl,86,7.7,3.08,3
+ART,P3,Opi. ogl,87,7.5,2.68,3
+ART,P3,Opi. ogl,88,8.5,2.79,3
+ART,P3,Opi. ogl,89,8.5,3.39,3
+ART,P3,Opi. ogl,90,7.3,2.56,3
+ART,P3,Opi. ogl,91,10.4,7.73,3
+ART,P3,Opi. ogl,92,7.5,2.89,3
+ART,P3,Opi. ogl,93,7.5,2.33,3
+ART,P3,Opi. ogl,94,8.0,2.62,3
+ART,P3,Opi. ogl,95,8.0,3.65,3
+ART,P3,Opi. ogl,96,7.8,3.15,3
+ART,P3,Opi. ogl,97,9.0,4.96,3
+ART,P3,Opi. ogl,98,8.9,4.89,3
+ART,P3,Opi. ogl,99,8.0,2.41,3
+ART,P3,Opi. ogl,100,7.9,2.9,3
+ART,P3,Opi. ogl,101,9.0,4.1,3
+ART,P3,Chl. chr,1.0,11.5,14.84,3
+ART,P3,Chl. chr,2.0,10.1,8.67,3
+ART,P3,Chl. chr,3.0,12.2,16.75,3
+ART,P3,Chl. chr,4.0,12.6,16.7,3
+ART,P3,Chl. chr,5.0,12.0,13.49,3
+ART,P3,Chl. chr,6.0,11.7,13.27,3
+ART,P3,Chl. chr,7.0,12.0,13.59,3
+ART,P3,Chl. chr,8.0,12.1,13.07,3
+ART,P3,Chl. chr,9.0,10.6,8.21,3
+ART,P3,Chl. chr,10.0,12.6,15.5,3
+ART,P3,Chl. chr,11.0,11.4,10.48,3
+ART,P3,Chl. chr,12.0,14.6,26.73,3
+ART,P3,Chl. chr,13.0,12.2,14.35,3
+ART,P3,Chl. chr,14.0,11.3,11.74,3
+ART,P3,Chl. chr,15.0,11.9,14.21,3
+ART,P3,Chl. chr,16.0,11.6,9.49,3
+ART,P3,Chl. chr,17.0,10.2,9.66,3
+ART,P3,Chl. chr,18.0,10.5,8.42,3
+ART,P3,Chl. chr,19.0,12.2,13.88,3
+ART,P3,Chl. chr,20.0,11.9,10.19,3
+ART,P3,Chl. chr,21.0,12.3,14.55,3
+ART,P3,Chl. chr,22.0,11.9,14.16,3
+ART,P3,Chl. chr,23.0,12.1,18.18,3
+ART,P3,Chl. chr,24.0,11.5,11.2,3
+ART,P3,Chl. chr,25.0,12.3,11.8,3
+ART,P3,Chl. chr,26.0,11.5,13.1,3
+ART,P3,Chl. chr,27.0,11.0,9.66,3
+ART,P3,Chl. chr,28.0,11.0,11.05,3
+ART,P3,Chl. chr,29.0,12.2,14.77,3
+ART,P3,Chl. chr,30.0,11.9,12.73,3
+ART,P3,Chl. chr,31.0,11.3,10.74,3
+ART,P3,Chl. chr,32.0,13.5,18.66,3
+ART,P3,Chl. chr,33.0,11.7,10.41,3
+ART,P3,Chl. chr,34.0,11.2,10.71,3
+ART,P3,Chl. chr,35.0,11.8,11.71,3
+ART,P3,Chl. chr,36.0,13.0,14.9,3
+ART,P3,Chl. chr,37.0,11.8,13.32,3
+ART,P3,Chl. chr,38.0,12.5,16.02,3
+ART,P3,Chl. chr,39.0,11.7,9.97,3
+ART,P3,Chl. chr,40.0,11.2,11.22,3
+ART,P3,Chl. chr,41.0,12.4,10.1,3
+ART,P3,Chl. chr,42.0,12.1,8.69,3
+ART,P3,Chl. chr,43.0,11.4,12.02,3
+ART,P3,Chl. chr,44.0,12.4,17.06,3
+ART,P3,Chl. chr,45.0,12.3,13.37,3
+ART,P3,Chl. chr,46.0,12.3,12.51,3
+ART,P3,Pel. har,1.0,12.9,18.66,3
+ART,P3,Pel. har,2.0,12.0,16.15,3
+ART,P3,Pel. har,3.0,12.5,15.29,3
+ART,P3,Pel. har,4.0,13.1,19.07,3
+ART,P3,Pel. har,5.0,10.5,8.94,3
+ART,P3,Pel. har,6.0,10.3,10.02,3
+ART,P3,Pel. har,7.0,11.1,12.24,3
+ART,P3,Pel. har,8.0,10.0,8.56,3
+ART,P3,Pel. har,9.0,11.0,11.65,3
+ART,P3,Pel. har,10.0,10.3,9.48,3
+ART,P3,Pel. har,11.0,12.5,17.08,3
+ART,P3,Pel. har,12.0,10.5,9.53,3
+ART,P3,Pel. har,13.0,10.5,9.88,3
+ART,P3,Pel. har,14.0,10.6,12.77,3
+ART,P3,Pel. har,15.0,9.8,7.71,3
+ART,P3,Pel. har,16.0,13.3,23.56,3
+ART,P3,Pel. har,17.0,10.5,10.09,3
+ART,P3,Pel. har,18.0,10.7,11.53,3
+ART,P3,Pel. har,19.0,10.5,9.33,3
+ART,P3,Pel. har,20.0,13.9,20.99,3
+ART,P3,Pel. har,21.0,10.1,8.55,3
+ART,P3,Pel. har,22.0,10.5,9.47,3
+ART,P3,Pel. har,23.0,13.5,23.97,3
+ART,P3,Pel. har,24.0,11.5,14.19,3
+ART,P3,Pel. har,25.0,13.8,21.59,3
+ART,P3,Pel. har,26.0,11.1,12.3,3
+ART,P3,Pel. har,27.0,13.3,22.17,3
+ART,P3,Pel. har,28.0,10.4,10.59,3
+ART,P3,Pel. har,29.0,9.8,8.46,3
+ART,P3,Pel. har,30.0,13.5,20.76,3
+ART,P3,Pel. har,31.0,13.5,22.74,3
+ART,P3,Pel. har,32.0,11.9,14.28,3
+ART,P3,Pel. har,33.0,11.5,13.07,3
+ART,P3,Pel. har,34.0,9.8,8.9,3
+ART,P3,Pel. har,35.0,12.4,16.54,3
+ART,P3,Pel. har,36.0,12.4,16.09,3
+ART,P3,Pel. har,37.0,10.5,9.54,3
+ART,P3,Pel. har,38.0,10.6,11.85,3
+ART,P3,Pel. har,39.0,10.0,8.82,3
+ART,P3,Pel. har,40.0,13.9,21.2,3
+ART,P3,Pel. har,41.0,11.5,12.1,3
+ART,P3,Pel. har,42.0,12.4,19.42,3
+ART,P3,Pel. har,43.0,10.5,10.53,3
+ART,P3,Pel. har,44.0,13.5,24.94,3
+ART,P3,Pel. har,45.0,9.9,9.05,3
+ART,P3,Pel. har,46.0,13.9,24.73,3
+ART,P3,Pel. har,47.0,10.5,10.43,3
+ART,P3,Pel. har,48.0,8.6,5.54,3
+ART,P3,Pel. har,49.0,10.0,9.62,3
+ART,P3,Pel. har,50.0,13.5,20.25,3
+ART,P3,Pel. har,51.0,9.7,7.81,3
+ART,P3,Pel. har,52.0,10.2,8.64,3
+ART,P3,Pel. har,53.0,13.6,25.58,3
+ART,P3,Pel. har,54.0,10.0,9.28,3
+ART,P3,Pel. har,55.0,10.6,11.01,3
+ART,P3,Pel. har,56.0,10.6,13.2,3
+ART,P3,Pel. har,57.0,9.8,8.03,3
+ART,P3,Pel. har,58.0,10.4,9.83,3
+ART,P3,Pel. har,59.0,12.2,18.23,3
+ART,P3,Pel. har,60.0,10.3,8.8,3
+ART,P3,Pel. har,61.0,13.5,19.29,3
+ART,P3,Pel. har,62.0,11.9,14.15,3
+ART,P3,Pel. har,63.0,12.7,15.53,3
+ART,P3,Pel. har,64.0,13.7,24.28,3
+ART,P3,Pel. har,65.0,12.5,16.04,3
+ART,P3,Pel. har,66.0,11.0,11.14,3
+ART,P3,Pel. har,67.0,10.7,9.1,3
+ART,P3,Pel. har,68.0,10.0,8.18,3
+ART,P3,Pel. har,69.0,9.5,6.75,3
+ART,P3,Pel. har,70.0,10.4,8.56,3
+ART,P3,Tri. lep,1.0,55.6,109.22,3
+ART,P3,Tri. lep,2.0,53.6,118.36,3
+ART,P3,Tri. lep,3.0,55.1,165.95,3
+ART,P3,Tri. lep,4.0,52,107.61,3
+ART,P3,Tri. lep,5.0,56,119.7,3
+ART,P3,Tri. lep,6.0,63.5,185.12,3
+ART,P3,Tri. lep,7.0,59,157.6,3
+ART,P3,Tri. lep,8.0,55,161.53,3
+ART,P3,Tri. lep,9.0,56,147.75,3
+ART,P3,Tri. lep,10.0,63.4,183.19,3
+ART,P3,Tri. lep,11.0,56,127.34,3
+ART,P3,Tri. lep,12.0,57.8,164.53,3
+ART,P3,Tri. lep,13.0,57.5,145.23,3
+ART,P3,Tri. lep,14.0,61,165.53,3
+ART,P3,Tri. lep,15.0,57.4,142.25,3
+ART,P3,Tri. lep,16.0,57,139.37,3
+ART,P3,Tri. lep,17.0,52,165.0,3
+ART,P3,Tri. lep,18.0,60.7,141.85,3
+ART,P3,Tri. lep,19.0,64,196.23,3
+ART,P3,Tri. lep,20.0,53,105.63,3
+ART,P3,Tri. lep,21.0,66.6,177.31,3
+ART,P3,Tri. lep,22.0,60,147.75,3
+ART,P3,Tri. lep,23.0,59.6,139.03,3
+ART,P3,Tri. lep,24.0,60.7,171.94,3
+ART,P3,Tri. lep,25.0,59.3,137.33,3
+ART,P3,Tri. lep,26.0,58,140.58,3
+ART,P3,Tri. lep,27.0,56.7,142.54,3
+ART,P3,Tri. lep,28.0,60,156.38,3
+ART,P3,Tri. lep,29.0,57.1,144.53,3
+ART,P3,Tri. lep,30.0,56.5,123.52,3
+ART,P3,Tri. lep,31.0,56.8,117.23,3
+ART,P3,Tri. lep,32.0,49.6,181.19,3
+ART,P3,Tri. lep,33.0,54,192.13,3
+ART,P3,Tri. lep,34.0,55.5,112.89,3
+ART,P3,Tri. lep,35.0,65.5,185.19,3
+ART,P3,Tri. lep,36.0,58,147.87,3
+ART,P3,Tri. lep,37.0,63.3,163.67,3
+ART,P3,Tri. lep,38.0,61.6,140.82,3
+ART,P3,Tri. lep,39.0,59.5,148.73,3
+ART,P3,Tri. lep,40.0,66,197.35,3
+ART,P3,Tri. lep,41.0,62,136.6,3
+ART,P3,Tri. lep,42.0,47,109.39,3
+ART,P3,Tri. lep,43.0,62,163.68,3
+ART,P3,Tri. lep,44.0,64,193.6,3
+ART,P3,Tri. lep,45.0,66,178.52,3
+ART,P3,Tri. lep,46.0,54,94.04,3
+ART,P3,Tri. lep,47.0,63,148.16,3
+ART,P3,Tri. lep,48.0,64,172.21,3
+ART,P3,Tri. lep,49.0,59,127.48,3
+ART,P3,Tri. lep,50.0,57,102.76,3
+ART,P3,Tri. lep,51.0,66,179.21,3
+ART,P3,Tri. lep,52.0,53,98.31,3
+ART,P3,Tri. lep,53.0,65,153.57,3
+ART,P3,Tri. lep,54.0,57,119.82,3
+ART,P3,Tri. lep,55.0,58,118.17,3
+ART,P3,Tri. lep,56.0,65,159.75,3
+ART,P3,Tri. lep,57.0,58,114.41,3
+ART,P3,Tri. lep,58.0,60,120.65,3
+ART,P3,Tri. lep,59.0,66,178.42,3
+ART,P3,Tri. lep,60.0,65,182.75,3
+ART,P3,Tri. lep,61.0,58,111.94,3
+ART,P3,Tri. lep,62.0,55,111.85,3
+ART,P3,Tri. lep,63.0,63,144.47,3
+ART,P3,Tri. lep,64.0,60,147.23,3
+ART,P3,Tri. lep,65.0,60,139.2,3
+ART,P3,Tri. lep,66.0,56,133.82,3
+ART,P3,Tri. lep,67.0,59,145.09,3
+ART,P3,Tri. lep,68.0,56,93.57,3
+ART,P3,Tri. lep,69.0,63,157.35,3
+ART,P3,Tri. lep,70.0,56,135.68,3
+ART,P3,Tri. lep,71.0,55,103.68,3
+ART,P3,Tri. lep,72.0,57,136.65,3
+ART,P3,Tri. lep,73.0,64,162.64,3
+ART,P3,Tri. lep,74.0,38*,108.82,3
+ART,P3,Tri. lep,75.0,61,118.95,3
+ART,P3,Euc. arg,1.0,8.5,5.86,3
+ART,P3,Euc. arg,2.0,7.0,2.55,3
+ART,P3,Euc. arg,3.0,7.4,4.39,3
+ART,P4,Gen. pla,1.0,"13,8","17,48",4
+ART,P4,Gen. pla,2.0,18,"43,85",4
+ART,P4,Gen. pla,3.0,19,"44,95",4
+ART,P4,Gen. pla,4.0,"17,5","46,66",4
+ART,P4,Gen. pla,5.0,"14,4","18,85",4
+ART,P4,Gen. pla,6.0,13,"16,29",4
+ART,P4,Gen. pla,7.0,18,"42,59",4
+ART,P4,Gen. pla,8.0,"19,4","51,44",4
+ART,P4,Gen. pla,9.0,"18,8","49,49",4
+ART,P4,Gen. pla,10.0,19,"44,59",4
+ART,P4,Gen. pla,11.0,16,"30,45",4
+ART,P4,Gen. pla,12.0,"17,5","39,10",4
+ART,P4,Gen. pla,13.0,15,"25,67",4
+ART,P4,Gen. pla,14.0,"14,5","19,60",4
+ART,P4,Gen. pla,15.0,18,"43,11",4
+ART,P4,Gen. pla,16.0,"15,7","26,77",4
+ART,P4,Gen. pla,17.0,"16,5","37,11",4
+ART,P4,Gen. pla,18.0,"6,7","2,03",4
+ART,P4,Gen. pla,19.0,"6,9","20,0",4
+ART,P4,Lyc. ssp,1.0,6,"1,88",4
+ART,P4,Lyc. ssp,2.0,5,"0,84",4
+ART,P4,Lyc. ssp,3.0,"6,5","1,44",4
+ART,P4,Lyc. ssp,4.0,"7,9","2,40",4
+ART,P4,Lyc. ssp,5.0,"7,2","2,02",4
+ART,P4,Lyc. ssp,6.0,"6,6","1,71",4
+ART,P4,Lyc. ssp,7.0,"7,1","2,24",4
+ART,P4,Lyc. ssp,8.0,"6,3","1,46",4
+ART,P4,Lyc. ssp,9.0,7,"1,44",4
+ART,P4,Lyc. ssp,10.0,"8,5","2,10",4
+ART,P4,Lyc. ssp,11.0,"8,2","2,41",4
+ART,P4,Lyc. ssp,12.0,7,"1,38",4
+ART,P4,Lyc. ssp,13.0,7,"1,77",4
+ART,P4,Lyc. ssp,14.0,"7,3","1,84",4
+ART,P4,Lyc. ssp,15.0,7,"1,55",4
+ART,P4,Lyc. ssp,16.0,"8,4","3,02",4
+ART,P4,Lyc. ssp,17.0,"7,5","2,05",4
+ART,P4,Lyc. ssp,18.0,"6,5","0,95",4
+ART,P4,Lyc. ssp,19.0,"6,8","1,47",4
+ART,P4,Lyc. ssp,20.0,8,"2,72",4
+ART,P4,Lyc. ssp,21.0,"7,6","2,52",4
+ART,P4,Lyc. ssp,22.0,"8,2","2,87",4
+ART,P4,Lyc. ssp,23.0,8,"2,62",4
+ART,P4,Lyc. ssp,24.0,"7,1","1,75",4
+ART,P4,Lyc. ssp,25.0,"7,5","2,24",4
+ART,P4,Lyc. ssp,26.0,"6,9","1,06",4
+ART,P4,Lyc. ssp,27.0,"6,5","1,27",4
+ART,P4,Lyc. ssp,28.0,"8,3","2,76",4
+ART,P4,Pel. har,1,"10,5","8,45",4
+ART,P4,Pel. har,2,13,"20,98",4
+ART,P4,Pel. har,3,"9,5","8,38",4
+ART,P4,Pel. har,4,"10,5","10,34",4
+ART,P4,Pel. har,5,"10,9","11,08",4
+ART,P4,Pel. har,6,14,"25,64",4
+ART,P4,Pel. har,7,"9,5","7,89",4
+ART,P4,Pel. har,8,"10,5","10,66",4
+ART,P4,Pel. har,9,"9,3","7,50",4
+ART,P4,Pel. har,10,"10,5","10,00",4
+ART,P4,Pel. har,11,"9,9","9,38",4
+ART,P4,Pel. har,12,"10,2","8,62",4
+ART,P4,Pel. har,13,10,"7,85",4
+ART,P4,Pel. har,14,12,"17,50",4
+ART,P4,Pel. har,15,"10,5","11,75",4
+ART,P4,Pel. har,16,"11,2","15,48",4
+ART,P4,Pel. har,17,"10,5","10,99",4
+ART,P4,Pel. har,18,10,"8,50",4
+ART,P4,Pel. har,19,"9,5","2,60",4
+ART,P4,Pel. har,20,10,"10,68",4
+ART,P4,Pel. har,21,13,"19,23",4
+ART,P4,Pel. har,22,"10,4","9,41",4
+ART,P4,Pel. har,23,11,"12,24",4
+ART,P4,Pel. har,24,10,"9,37",4
+ART,P4,Pel. har,25,"10,4","9,95",4
+ART,P4,Pel. har,26,"9,8","8,69",4
+ART,P4,Pel. har,27,"9,2","8,67",4
+ART,P4,Pel. har,28,10,"9,43",4
+ART,P4,Pel. har,29,"9,3","8,13",4
+ART,P4,Pel. har,30,"10,5","11,18",4
+ART,P4,Pel. har,31,"9,9","9,18",4
+ART,P4,Pel. har,32,"10,4","11,43",4
+ART,P4,Pel. har,33,"10,4","8,41",4
+ART,P4,Pel. har,34,"9,8","9,06",4
+ART,P4,Pel. har,35,10,"8,47",4
+ART,P4,Pel. har,36,"9,9","8,48",4
+ART,P4,Pel. har,37,"9,5","7,80",4
+ART,P4,Pel. har,38,9,"8,00",4
+ART,P4,Pel. har,39,"10,5","10,53",4
+ART,P4,Pel. har,40,11,"10,91",4
+ART,P4,Pel. har,41,"10,5","11,52",4
+ART,P4,Pel. har,42,"9,8","8,19",4
+ART,P4,Pel. har,43,"9,9","9,88",4
+ART,P4,Pel. har,44,11,"12,39",4
+ART,P4,Pel. har,45,"10,5","10,71",4
+ART,P4,Pel. har,46,"10,4","10,18",4
+ART,P4,Pel. har,47,"9,5","8,06",4
+ART,P4,Pel. har,48,13,"19,61",4
+ART,P4,Pel. har,49,"9,5","7,74",4
+ART,P4,Pel. har,50,10,"9,82",4
+ART,P4,Pel. har,51,10,"9,83",4
+ART,P4,Pel. har,52,"9,5","8,22",4
+ART,P4,Pel. har,53,"8,9","6,62",4
+ART,P4,Pel. har,54,10,"8,75",4
+ART,P4,Pel. har,55,"9,9","9,30",4
+ART,P4,Pel. har,56,10,"10,04",4
+ART,P4,Pel. har,57,"9,4","7,80",4
+ART,P4,Pel. har,58,"9,8","9,16",4
+ART,P4,Pel. har,59,"9,8","7,34",4
+ART,P4,Pel. har,60,"11,2","12,90",4
+ART,P4,Pel. har,61,"11,5","14,88",4
+ART,P4,Pel. har,62,10,"9,28",4
+ART,P4,Pel. har,63,"9,5","9,60",4
+ART,P4,Pel. har,64,"9,5","7,55",4
+ART,P4,Pel. har,65,10,"9,63",4
+ART,P4,Pel. har,66,"9,5","8,38",4
+ART,P4,Pel. har,67,"9,5","8,03",4
+ART,P4,Pel. har,68,10,"9,41",4
+ART,P4,Pel. har,69,"9,5","8,13",4
+ART,P4,Pel. har,70,14,"21,74",4
+ART,P4,Pel. har,71,"10,9","11,31",4
+ART,P4,Pel. har,72,11,"13,53",4
+ART,P4,Pel. har,73,"10,6","9,00",4
+ART,P4,Pel. har,74,8,"9,00",4
+ART,P4,Pel. har,75,"7,2","9,70",4
+ART,P4,Pel. har,76,"9,6","8,33",4
+ART,P4,Pel. har,77,9,"6,63",4
+ART,P4,Pel. har,78,"9,9","8,90",4
+ART,P4,Pel. har,79,12,"11,72",4
+ART,P4,Pel. har,80,"8,6","5,84",4
+ART,P4,Pel. har,81,"10,4","8,74",4
+ART,P4,Pel. har,82,"9,5","8,11",4
+ART,P4,Pel. har,83,"10,3","9,98",4
+ART,P4,Pel. har,84,11,"11,05",4
+ART,P4,Pel. har,85,"9,5","8,30",4
+ART,P4,Pel. har,86,10,"9,15",4
+ART,P4,Pel. har,87,10,"10,04",4
+ART,P4,Pel. har,88,10,"8,48",4
+ART,P4,Pel. har,89,"9,9","9,33",4
+ART,P4,Pel. har,90,"10,5","10,64",4
+ART,P4,Pel. har,91,"9,9","8,65",4
+ART,P4,Pel. har,92,"9,5","9,20",4
+ART,P4,Pel. har,93,10,"10,21",4
+ART,P4,Pel. har,94,"10,5","10,38",4
+ART,P4,Pel. har,95,"9,7","8,80",4
+ART,P4,Pel. har,96,10,"8,70",4
+ART,P4,Pel. har,97,"8,5","4,83",4
+ART,P4,Pel. har,98,"9,4","8,48",4
+ART,P4,Pel. har,99,"10,5","10,55",4
+ART,P4,Pel. har,100,10,"9,11",4
+ART,P4,Opi. ogl,1,7,"2,50",4
+ART,P4,Opi. ogl,2,8,"2,76",4
+ART,P4,Opi. ogl,3,"7,5","3,12",4
+ART,P4,Opi. ogl,4,"8,4","3,27",4
+ART,P4,Opi. ogl,5,"7,5","3,08",4
+ART,P4,Opi. ogl,6,12,"11,88",4
+ART,P4,Opi. ogl,7,8,"3,06",4
+ART,P4,Opi. ogl,8,"9,7","4,49",4
+ART,P4,Opi. ogl,9,"7,5","2,85",4
+ART,P4,Opi. ogl,10,"7,8","8,50",4
+ART,P4,Opi. ogl,11,8,"3,31",4
+ART,P4,Opi. ogl,12,"6,5","2,83",4
+ART,P4,Opi. ogl,13,"7,9","3,94",4
+ART,P4,Opi. ogl,14,"7,8","3,18",4
+ART,P4,Opi. ogl,15,"7,5","2,98",4
+ART,P4,Opi. ogl,16,"7,7","3,22",4
+ART,P4,Opi. ogl,17,"9,6","6,88",4
+ART,P4,Opi. ogl,18,"8,5","4,49",4
+ART,P4,Opi. ogl,19,"7,5","2,75",4
+ART,P4,Opi. ogl,20,"7,8","2,95",4
+ART,P4,Opi. ogl,21,"8,4","4,37",4
+ART,P4,Opi. ogl,22,"8,5","4,98",4
+ART,P4,Opi. ogl,23,"9,3","6,67",4
+ART,P4,Opi. ogl,24,"7,3","2,93",4
+ART,P4,Opi. ogl,25,"8,8","5,22",4
+ART,P4,Opi. ogl,26,"7,7","3,78",4
+ART,P4,Opi. ogl,27,"8,5","4,89",4
+ART,P4,Opi. ogl,28,"8,9","5,14",4
+ART,P4,Opi. ogl,29,"8,8","5,67",4
+ART,P4,Opi. ogl,30,"7,5","3,90",4
+ART,P4,Opi. ogl,31,"10,8","8,70",4
+ART,P4,Opi. ogl,32,"8,9","5,52",4
+ART,P4,Opi. ogl,33,"9,2","6,23",4
+ART,P4,Opi. ogl,34,"10,6","8,70",4
+ART,P4,Opi. ogl,35,"9,3","6,17",4
+ART,P4,Opi. ogl,36,"7,9","3,35",4
+ART,P4,Opi. ogl,37,"8,8","5,62",4
+ART,P4,Opi. ogl,38,"8,1","4,52",4
+ART,P4,Opi. ogl,39,8,"3,94",4
+ART,P4,Opi. ogl,40,"6,9","2,37",4
+ART,P4,Opi. ogl,41,"8,7","4,47",4
+ART,P4,Opi. ogl,42,7,"2,65",4
+ART,P4,Opi. ogl,43,"7,5","3,29",4
+ART,P4,Opi. ogl,44,9,"5,32",4
+ART,P4,Opi. ogl,45,"8,5","4,86",4
+ART,P4,Opi. ogl,46,"7,8","3,03",4
+ART,P4,Opi. ogl,47,"7,9","3,59",4
+ART,P4,Opi. ogl,48,"6,8","2,37",4
+ART,P4,Opi. ogl,49,13,"18,24",4
+ART,P4,Opi. ogl,50,8,"13,84",4
+ART,P4,Opi. ogl,51,"8,4","4,01",4
+ART,P4,Opi. ogl,52,"10,3","7,33",4
+ART,P4,Opi. ogl,53,"10,8","10,77",4
+ART,P4,Opi. ogl,54,"9,9","7,57",4
+ART,P4,Opi. ogl,55,"10,2","6,83",4
+ART,P4,Opi. ogl,56,"8,5","4,32",4
+ART,P4,Opi. ogl,57,"7,1","2,41",4
+ART,P4,Opi. ogl,58,8,"3,45",4
+ART,P4,Opi. ogl,59,"7,8","3,42",4
+ART,P4,Opi. ogl,60,"8,2","3,44",4
+ART,P4,Opi. ogl,61,"0,7","3,58",4
+ART,P4,Opi. ogl,62,"8,3","4,02",4
+ART,P4,Opi. ogl,63,"10,7","8,93",4
+ART,P4,Opi. ogl,64,"9,3","4,70",4
+ART,P4,Opi. ogl,65,"9,3","5,07",4
+ART,P4,Opi. ogl,66,"8,3","4,07",4
+ART,P4,Opi. ogl,67,"8,7","4,53",4
+ART,P4,Opi. ogl,68,7,"3,23",4
+ART,P4,Opi. ogl,69,"9,9","7,10",4
+ART,P4,Opi. ogl,70,"7,9","3,28",4
+ART,P4,Opi. ogl,71,8,"3,85",4
+ART,P4,Opi. ogl,72,"8,6","5,17",4
+ART,P4,Opi. ogl,73,"8,4","3,94",4
+ART,P4,Opi. ogl,74,"7,9","3,27",4
+ART,P4,Opi. ogl,75,"8,5","4,31",4
+ART,P4,Opi. ogl,76,"9,2","6,18",4
+ART,P4,Opi. ogl,77,"8,7","5,14",4
+ART,P4,Opi. ogl,78,"8,7","3,79",4
+ART,P4,Opi. ogl,79,"8,3","3,71",4
+ART,P4,Opi. ogl,80,"7,1","2,21",4
+ART,P4,Opi. ogl,81,"7,5","2,64",4
+ART,P4,Opi. ogl,82,"8,1","3,97",4
+ART,P4,Opi. ogl,83,"2,2","3,99",4
+ART,P4,Opi. ogl,84,"9,7","6,75",4
+ART,P4,Opi. ogl,85,"7,5","3,04",4
+ART,P4,Opi. ogl,86,"7,6","3,09",4
+ART,P4,Opi. ogl,87,"8,6","5,01",4
+ART,P4,Opi. ogl,88,"7,6","2,93",4
+ART,P4,Opi. ogl,89,"8,2","3,51",4
+ART,P4,Opi. ogl,90,8,"3,47",4
+ART,P4,Opi. ogl,91,"8,1","3,39",4
+ART,P4,Opi. ogl,92,"7,6","2,72",4
+ART,P4,Opi. ogl,93,"8,6","4,36",4
+ART,P4,Opi. ogl,94,"7,9","3,48",4
+ART,P4,Opi. ogl,95,"8,8","5,19",4
+ART,P4,Opi. ogl,96,"7,6","3,13",4
+ART,P4,Opi. ogl,97,"7,6","3,33",4
+ART,P4,Opi. ogl,98,"7,9","3,57",4
+ART,P4,Opi. ogl,99,"8,3","3,94",4
+ART,P4,Opi. ogl,100,"9,2","5,67",4
+ART,P4,Opi. ogl,101,8,"3,29",4
+ART,P4,Opi. ogl,102,8,"3,70",4
+ART,P4,Opi. ogl,103,"7,4","4,30",4
+ART,P4,Opi. ogl,104,"8,1","3,84",4
+ART,P4,Opi. ogl,105,"8,3","4,50",4
+ART,P4,Opi. ogl,106,"8,4","4,36",4
+ART,P4,Opi. ogl,107,"7,9","3,37",4
+ART,P4,Opi. ogl,108,"8,2","3,40",4
+ART,P4,Opi. ogl,109,9,"4,76",4
+ART,P4,Opi. ogl,110,"7,6","3,25",4
+ART,P4,Opi. ogl,111,"8,9","4,96",4
+ART,P4,Opi. ogl,112,"8,1","3,84",4
+ART,P4,Opi. ogl,113,"8,6","4,03",4
+ART,P4,Opi. ogl,114,"7,8","3,46",4
+ART,P4,Opi. ogl,115,"7,6","2,31",4
+ART,P4,Opi. ogl,116,"7,8","3,12",4
+ART,P4,Opi. ogl,117,"9,2","5,23",4
+ART,P4,Opi. ogl,118,"9,1","5,35",4
+ART,P4,Opi. ogl,119,9,"5,04",4
+ART,P4,Opi. ogl,120,"8,8","5,76",4
+ART,P4,Opi. ogl,121,"12,6","15,74",4
+ART,P4,Opi. ogl,122,"9,4","5,01",4
+ART,P4,Opi. ogl,123,"9,1","4,92",4
+ART,P4,Opi. ogl,124,"8,2","4,13",4
+ART,P4,Opi. ogl,125,"11,4","10,94",4
+ART,P4,Opi. ogl,126,"7,7","3,15",4
+ART,P4,Opi. ogl,127,"9,7","6,13",4
+ART,P4,Opi. ogl,128,"8,1","3,88",4
+ART,P4,Opi. ogl,129,"7,6","2,93",4
+ART,P4,Opi. ogl,130,"8,4","4,36",4
+ART,P4,Opi. ogl,131,"7,5","2,84",4
+ART,P4,Opi. ogl,132,"8,5","4,33",4
+ART,P4,Opi. ogl,133,"7,3","2,33",4
+ART,P4,Opi. ogl,134,"9,6","5,55",4
+ART,P4,Opi. ogl,135,"9,7","6,57",4
+ART,P4,Opi. ogl,136,9,"5,25",4
+ART,P4,Opi. ogl,137,"7,4","2,58",4
+ART,P4,Opi. ogl,138,"9,8","6,57",4
+ART,P4,Opi. ogl,139,"9,6","6,35",4
+ART,P4,Opi. ogl,140,"7,4","2,42",4
+ART,P4,Opi. ogl,141,"7,7","3,15",4
+ART,P4,Opi. ogl,142,"8,8","4,73",4
+ART,P4,Opi. ogl,143,"7,7","3,83",4
+ART,P4,Opi. ogl,144,"9,6","5,44",4
+ART,P4,Opi. ogl,145,"8,7","4,71",4
+ART,P4,Opi. ogl,146,10,"7,73",4
+ART,P4,Opi. ogl,147,"8,3","3,91",4
+ART,P4,Opi. ogl,148,"9,4","5,94",4
+ART,P4,Opi. ogl,149,"9,6","5,93",4
+ART,P4,Opi. ogl,150,"7,9","3,37",4
+ART,P4,Opi. ogl,151,"8,7","4,95",4
+ART,P4,Opi. ogl,152,8,"3,67",4
+ART,P4,Opi. ogl,153,"8,5","4,84",4
+ART,P4,Opi. ogl,154,"9,3","5,30",4
+ART,P4,Opi. ogl,155,"8,7","4,85",4
+ART,P4,Opi. ogl,156,"8,6","4,38",4
+ART,P4,Opi. ogl,157,"10,3","8,30",4
+ART,P4,Opi. ogl,158,"11,4","10,70",4
+ART,P4,Opi. ogl,159,10,"7,76",4
+ART,P4,Opi. ogl,160,"11,1","10,06",4
+ART,P4,Opi. ogl,161,"9,2","5,88",4
+ART,P4,Opi. ogl,162,"10,5","9,21",4
+ART,P4,Opi. ogl,163,"10,1","7,42",4
+ART,P4,Opi. ogl,164,"10,3","6,36",4
+ART,P4,Opi. ogl,165,11,"9,68",4
+ART,P4,Opi. ogl,166,11,"10,49",4
+ART,P4,Sym. pla,1.0,"11,5","11,82",4
+ART,P4,Sym. pla,2.0,"13,4","15,13",4
+ART,P4,Sym. pla,3.0,"11,2","14,83",4
+ART,P4,Sym. pla,4.0,"13,2","14,79",4
+ART,P4,Sym. pla,5.0,"12,4","11,75",4
+ART,P4,Sym. pla,6.0,"11,9","10,18",4
+ART,P4,Sym. pla,7.0,"11,8","11,95",4
+ART,P4,Hae. cor,1.0,"10,7","14,09",4
+ART,P4,Hae. cor,2.0,9,"7,77",4
+ART,P4,Hae. cor,3.0,7,"4,32",4
+ART,P4,Hae. cor,4.0,"8,6","7,41",4
+ART,P4,Hae. cor,5.0,7,"3,58",4
+ART,P4,Hae. cor,6.0,"14,9","43,26",4
+ART,P4,Hae. cor,7.0,"9,2","8,48",4
+ART,P4,Hae. cor,8.0,"7,4","4,26",4
+ART,P4,Hae. cor,9.0,"6,5","3,74",4
+ART,P4,Hae. cor,10.0,"13,6","31,74",4
+ART,P4,Hae. cor,11.0,"16,9","64,51",4
+ART,P4,Men. ame,1.0,10,"9,32",4
+ART,P4,Men. ame,2.0,"12,5","16,38",4
+ART,P4,Men. ame,3.0,7,"2,47",4
+ART,P4,Men. ame,4.0,"8,5","5,8",4
+ART,P4,Men. ame,5.0,"7,7","4,84",4
+ART,P4,Men. ame,6.0,7,"3,23",4
+ART,P4,Men. ame,7.0,"6,3","2,17",4
+ART,P4,Men. ame,8.0,"7,2","2,91",4
+ART,P4,Men. ame,9.0,"10,3","10,12",4
+ART,P4,Men. ame,10.0,"11,4","12,88",4
+ART,P4,Men. ame,11.0,"7,5","4,46",4
+ART,P4,Men. ame,12.0,9,"7,88",4
+ART,P4,Men. ame,13.0,"9,7","7,77",4
+ART,P4,Men. ame,14.0,"11,6","14,95",4
+ART,P4,Men. ame,15.0,"12,5","17,12",4
+ART,P4,Men. ame,16.0,13,"20,61",4
+ART,P4,Men. ame,17.0,"13,2","21,83",4
+ART,P4,Men. ame,18.0,"11,5","13,84",4
+ART,P4,Men. ame,19.0,"7,4","3,41",4
+ART,P4,Men. ame,20.0,"20,7","104,53",4
+ART,P4,Cat. spi,1.0,"11,5","10,75",4
+ART,P4,Cat. spi,2.0,"9,2","6,01",4
+ART,P4,Cat. spi,3.0,"6,2","2,14",4
+ART,P4,Cat. spi,4.0,"14,3","24,69",4
+ART,P4,Cat. spi,5.0,13,"17,83",4
+ART,P4,Cat. spi,6.0,"10,2","8,33",4
+ART,P4,Cat. spi,7.0,"15,8","35,94",4
+ART,P4,Cat. spi,8.0,13,"19,80",4
+ART,P4,Cat. spi,9.0,10,"8,60",4
+ART,P4,Cat. spi,10.0,10,"9,24",4
+ART,P4,Cat. spi,11.0,"11,5","14,66",4
+ART,P4,Cat. spi,12.0,9,"7,09",4
+ART,P4,Cat. spi,13.0,"11,5","12,83",4
+ART,P4,Cat. spi,14.0,"10,5","9,66",4
+ART,P4,Cat. spi,15.0,"11,5","13,80",4
+ART,P4,Cat. spi,16.0,9,"7,54",4
+ART,P4,Cat. spi,17.0,10,"9,60",4
+ART,P4,Cat. spi,18.0,"9,5","7,00",4
+ART,P4,Cat. spi,19.0,10,"8,57",4
+ART,P4,Cat. spi,20.0,"9,5","8,25",4
+ART,P4,Cat. spi,21.0,11,"12,32",4
+ART,P4,Cat. spi,22.0,"9,8","7,28",4
+ART,P4,Cat. spi,23.0,"12,5","16,39",4
+ART,P4,Cat. spi,24.0,"9,0","5,46",4
+ART,P4,Cat. spi,25.0,"8,0","3,09",4
+ART,P4,Cat. spi,26.0,"9,6","6,21",4
+ART,P4,Cat. spi,27.0,"9,1","4,55",4
+ART,P4,Cat. spi,28.0,"5,0","4,88",4
+ART,P4,Cat. spi,29.0,"9,0","5,13",4
+ART,P4,Not. gra,1.0,"8,7","4,43",4
+ART,P4,Not. gra,2.0,9,"4,81",4
+ART,P4,Not. gra,3.0,10,"6,59",4
+ART,P4,Not. gra,4.0,"9,1","5,18",4
+ART,P4,Not. gra,5.0,"9,8","6,18",4
+ART,P4,Not. gra,6.0,"8,2","3,77",4
+ART,P4,Not. gra,7.0,9,"5,43",4
+ART,P4,Not. gra,8.0,"9,5","4,96",4
+ART,P4,Not. gra,9.0,"7,4","2,01",4
+ART,P4,Not. gra,10.0,"9,2","6,01",4
+ART,P4,Not. gra,11.0,"8,7","4,62",4
+ART,P4,Not. gra,12.0,"13,9","21,7",4
+ART,P4,Not. gra,13.0,9,"4,93",4
+ART,P4,Not. gra,14.0,"8,6","4,25",4
+ART,P4,Not. gra,15.0,"10,5","9,04",4
+ART,P4,Not. gra,16.0,"8,6","4,13",4
+ART,P4,Not. gra,17.0,"9,5","6,55",4
+ART,P4,Not. gra,18.0,"8,6","4,42",4
+ART,P4,Not. gra,19.0,8,"3,61",4
+ART,P4,Not. gra,20.0,10,"7,12",4
+ART,P4,Not. gra,21.0,"8,5","4,72",4
+ART,P4,Not. gra,22.0,9,"5,31",4
+ART,P4,Not. gra,23.0,9,"5,05",4
+ART,P4,Not. gra,24.0,8,"3,06",4
+ART,P4,Not. gra,25.0,"10,2","8,69",4
+ART,P4,Not. gra,26.0,14,"20,41",4
+ART,P4,Not. gra,27.0,"9,3","5,27",4
+ART,P4,Not. gra,28.0,"10,9","9,92",4
+ART,P4,Not. gra,29.0,"8,7","4,51",4
+ART,P4,Not. gra,30.0,8,"4,05",4
+ART,P4,Not. gra,31.0,"10,5","9,79",4
+ART,P4,Not. gra,32.0,"9,3","5,44",4
+ART,P4,Not. gra,33.0,"8,9","5,35",4
+ART,P4,Not. gra,34.0,9,"5,98",4
+ART,P4,Not. gra,35.0,"9,5","6,27",4
+ART,P4,Not. gra,36.0,"8,5","4,45",4
+ART,P4,Not. gra,37.0,"8,3","4,17",4
+ART,P4,Not. gra,38.0,"9,2","5,78",4
+ART,P4,Not. gra,39.0,7,"2,62",4
+ART,P4,Not. gra,40.0,"9,5","5,35",4
+ART,P4,Not. gra,41.0,11,"9,27",4
+ART,P4,Not. gra,42.0,"8,5","4,16",4
+ART,P4,Not. gra,43.0,9,"4,77",4
+ART,P4,Not. gra,44.0,"9,1","5,06",4
+ART,P4,Not. gra,45.0,"8,6","4,66",4
+ART,P4,Not. gra,46.0,"7,9","3,6",4
+ART,P4,Not. gra,47.0,8,"3,9",4
+ART,P4,Not. gra,48.0,"8,6","4,22",4
+ART,P4,Not. gra,49.0,"8,2","4,96",4
+ART,P4,Not. gra,50.0,"7,0","2,02",4
+ART,P4,Cet. ede,1,"(cp) 8,2","9,08",4
+ART,P4,Cet. ede,2,"10,2","8,15",4
+ART,P4,Cet. ede,3,"10,1","9,53",4
+ART,P4,Cet. ede,4,"9,4","6,86",4
+ART,P4,Cet. ede,5,"9,9","8,33",4
+ART,P4,Cet. ede,6,"9,8","9,01",4
+ART,P4,Cet. ede,7,"10,8","11,13",4
+ART,P4,Cet. ede,8,"9,7","8,76",4
+ART,P4,Cet. ede,9,"10,6","10,4",4
+ART,P4,Cet. ede,10,10,"9,5",4
+ART,P4,Cet. ede,11,"10,4","10,07",4
+ART,P4,Cet. ede,12,"9,7","9,32",4
+ART,P4,Cet. ede,13,10,"8,78",4
+ART,P4,Cet. ede,14,9,"8,37",4
+ART,P4,Cet. ede,15,"9,7","8,06",4
+ART,P4,Cet. ede,16,"9,8","9,42",4
+ART,P4,Cet. ede,17,"9,2","8,08",4
+ART,P4,Cet. ede,18,"9,9","8,58",4
+ART,P4,Cet. ede,19,"10,2","10,65",4
+ART,P4,Cet. ede,20,"9,5","7,79",4
+ART,P4,Cet. ede,21,"10,3","9,97",4
+ART,P4,Cet. ede,22,"9,9","9,11",4
+ART,P4,Cet. ede,23,"10,2","9,82",4
+ART,P4,Cet. ede,24,"10,2","10,82",4
+ART,P4,Cet. ede,25,"10,1","8,71",4
+ART,P4,Cet. ede,26,"10,6","8,19",4
+ART,P4,Cet. ede,27,"11,7","14,47",4
+ART,P4,Cet. ede,28,11,"11,95",4
+ART,P4,Cet. ede,29,"12,4","16,11",4
+ART,P4,Cet. ede,30,"11,4","15,8",4
+ART,P4,Cet. ede,31,"11,4","12,81",4
+ART,P4,Cet. ede,32,11,"11,97",4
+ART,P4,Cet. ede,33,"9,7","9,03",4
+ART,P4,Cet. ede,34,13,"20,41",4
+ART,P4,Cet. ede,35,"10,2","9,15",4
+ART,P4,Cet. ede,36,11,"11,87",4
+ART,P4,Cet. ede,37,"10,8","10,38",4
+ART,P4,Cet. ede,38,"10,7","9,57",4
+ART,P4,Cet. ede,39,12,"14,79",4
+ART,P4,Cet. ede,40,"10,1","8,05",4
+ART,P4,Cet. ede,41,11,"11,42",4
+ART,P4,Cet. ede,42,"10,7","10,46",4
+ART,P4,Cet. ede,43,"9,7","10,62",4
+ART,P4,Cet. ede,44,"9,5","7,75",4
+ART,P4,Cet. ede,45,"9,8","8,53",4
+ART,P4,Cet. ede,46,12,"12,97",4
+ART,P4,Cet. ede,47,"10,8","10,74",4
+ART,P4,Cet. ede,48,"12,6","17,23",4
+ART,P4,Cet. ede,49,"12,3","15,29",4
+ART,P4,Cet. ede,50,"12,9","19,20",4
+ART,P4,Cet. ede,51,"13,0","18,35",4
+ART,P4,Euc. arg,1.0,7.0,"3,94",4
+ART,P4,Chl. chr,1,"12,4","13,39",4
+ART,P4,Chl. chr,2,"10,3","9,38",4
+ART,P4,Chl. chr,3,11,"10,13",4
+ART,P4,Chl. chr,4,"12,5","12,26",4
+ART,P4,Chl. chr,5,"11,6","13,67",4
+ART,P4,Chl. chr,6,12,"13,25",4
+ART,P4,Chl. chr,7,"11,4","11,52",4
+ART,P4,Chl. chr,8,"12,5","17,15",4
+ART,P4,Chl. chr,9,"11,8","11,44",4
+ART,P4,Chl. chr,10,"12,3","17,38",4
+ART,P4,Chl. chr,11,"13,6","17,60",4
+ART,P4,Chl. chr,12,"10,8","8,79",4
+ART,P4,Chl. chr,13,"13,3","21,56",4
+ART,P4,Chl. chr,14,"11,3","10,99",4
+ART,P4,Chl. chr,15,"12,5","14,94",4
+ART,P4,Chl. chr,16,"11,5","14,00",4
+ART,P4,Chl. chr,17,"12,9","19,33",4
+ART,P4,Chl. chr,18,"11,8","14,28",4
+ART,P4,Chl. chr,19,"11,8","13,72",4
+ART,P4,Chl. chr,20,"11,4","10,69",4
+ART,P4,Chl. chr,21,"11,4","11,03",4
+ART,P4,Chl. chr,22,"10,5","10,73",4
+ART,P4,Chl. chr,23,13,"18,82",4
+ART,P4,Chl. chr,24,12,"15,38",4
+ART,P4,Chl. chr,25,"11,5","12,96",4
+ART,P4,Chl. chr,26,"12,2","17,67",4
+ART,P4,Chl. chr,27,"10,5","10,63",4
+ART,P4,Chl. chr,28,"12,5","15,37",4
+ART,P4,Chl. chr,29,"12,5","17,09",4
+ART,P4,Chl. chr,30,"12,5","16,99",4
+ART,P4,Chl. chr,31,"12,3","12,51",4
+ART,P4,Chl. chr,32,"13,5","20,00",4
+ART,P4,Chl. chr,33,"11,3","10,27",4
+ART,P4,Chl. chr,34,"12,3","15,43",4
+ART,P4,Chl. chr,35,"12,0","11,98",4
+ART,P4,Chl. chr,36,"12,0","12,95",4
+ART,P4,Chl. chr,37,"12,4","14,97",4
+ART,P4,Chl. chr,38,"8,1","2,90",4
+ART,P4,Chl. chr,39,"9,6","5,05",4
+ART,P4,Chl. chr,40,"8,3","3,30",4
+ART,P4,Chl. chr,41,"7,1","2,03",4
+ART,P4,Chl. chr,42,"8,8","4,05",4
+ART,P4,Chl. chr,43,"7,8","2,70",4
+ART,P4,Chl. chr,44,"9,6","5,49",4
+ART,P4,Chl. chr,45,"10,2","6,49",4
+ART,P4,Chl. chr,46,"9,0","3,95",4
+ART,P4,Chl. chr,47,"7,9","2,97",4
+ART,P4,Chl. chr,48,"8,4","3,73",4
+ART,P4,Chl. chr,49,"7,5","2,79",4
+ART,P4,Chl. chr,50,"9,2","4,53",4
+ART,P4,Chl. chr,51,"9,4","5,15",4
+ART,P4,Chl. chr,52,"8,9","4,55",4
+ART,P4,Chl. chr,53,"9,4","5,15",4
+ART,P4,Chl. chr,54,"8,9","4,55",4
+ART,P4,Chl. chr,55,"8,0","3,0",4
+ART,P4,Chl. chr,56,"11,7","10,77",4
+ART,P4,Chl. chr,57,"9,6","5,10",4
+ART,P4,Chl. chr,58,"7,9","3,10",4
+ART,P4,Chl. chr,59,"8,1","3,18",4
+ART,P4,Chl. chr,60,"8,3","2,94",4
+ART,P4,Chl. chr,61,"7,9","2,69",4
+ART,P4,Chl. chr,62,"8,0","3,31",4
+ART,P4,Chl. chr,63,"8,2","2,85",4
+ART,P4,Chl. chr,64,"7,9","3,12",4
+ART,P4,Chl. chr,65,"9,0","4,65",4
+ART,P4,Chl. chr,66,"10,9","8,92",4
+ART,P4,Chl. chr,67,"7,9","3,31",4
+ART,P4,Chl. chr,68,"7,8","2,79",4
+ART,P4,Chl. chr,69,"9,3","5,47",4
+ART,P4,Chl. chr,70,"9,7","7,06",4
+ART,P4,Chl. chr,71,"9,7","6,42",4
+ART,P4,Chl. chr,72,"8,9","5,05",4
+ART,P4,Chl. chr,73,"10,5","8,53",4
+ART,P4,Chl. chr,74,"8,8","4,92",4
+ART,P4,Chl. chr,75,"7,7","2,74",4
+ART,P4,Chl. chr,76,"7,9","3,49",4
+ART,P4,Chl. chr,77,"9,0","4,45",4
+ART,P4,Chl. chr,78,"7,7","3,21",4
+ART,P4,Chl. chr,79,"8,1","4,02",4
+ART,P4,Chl. chr,80,"9,7","5,24",4
+ART,P4,Chl. chr,81,"9,0","4,64",4
+ART,P4,Chl. chr,82,"7,8","3,15",4
+ART,P4,Chl. chr,83,"7,7","3,07",4
+ART,P4,Chl. chr,84,"9,8","5,64",4
+ART,P4,Chl. chr,85,"8,5","4,43",4
+ART,P4,Chl. chr,86,"7,6","3,22",4
+ART,P4,Chl. chr,87,"9,2","4,87",4
+ART,P4,Chl. chr,88,"9,5","5,20",4
+ART,P4,Chl. chr,89,"9,1","4,45",4
+ART,P4,Chl. chr,90,"8,0","3,31",4
+ART,P4,Chl. chr,91,"7,7","3,0",4
+ART,P4,Chl. chr,92,"7,4","2,75",4
+ART,P4,Chl. chr,93,"8,4","4,02",4
+ART,P4,Chl. chr,94,"8,9","4,61",4
+ART,P4,Chl. chr,95,"7,9","3,42",4
+ART,P4,Chl. chr,96,"9,6","6,36",4
+ART,P4,Chl. chr,97,"9,6","5,56",4
+ART,P4,Chl. chr,98,"9,4","5,66",4
+ART,P4,Chl. chr,99,"9,9","6,77",4
+ART,P4,Chl. chr,100,"7,8","3,08",4
+ART,P4,Chl. chr,101,"8,2","3,08",4
+ART,P4,Chl. chr,102,"7,5","3,25",4
+ART,P4,Chl. chr,103,"9,0","4,76",4
+ART,P4,Chl. chr,104,"8,3","3,95",4
+ART,P4,Chl. chr,105,"9,8","6,08",4
+ART,P4,Chl. chr,106,"8,5","4,21",4
+ART,P4,Chl. chr,107,"8,4","3,23",4
+ART,P4,Chl. chr,108,"7,5","2,57",4
+ART,P4,Chl. chr,109,"7,9","9,40",4
+ART,P4,Chl. chr,110,"11,7","14,18",4
+ART,P4,Chl. chr,111,"12,9","15,84",4
+ART,P4,Chl. chr,112,"12,1","12,81",4
+ART,P4,Chl. chr,113,"11,8","12,30",4
+ART,P4,Chl. chr,114,"11,6","12,57",4
+ART,P4,Anc. bre,1.0,"7,3",2,4
+ART,P4,Anc. bre,2.0,"7,5","2,32",4
+ART,P4,Anc. bre,3.0,"6,4","1,34",4
+ART,P4,Anc. bre,4.0,"7,4","2,73",4
+ART,P4,Anc. bre,5.0,"6,6","1,34",4
+ART,P4,Anc. bre,6.0,"7,2","1,69",4
+ART,P4,Anc. bre,7.0,"8,0","2,40",4
+ART,P4,Anc. bre,8.0,"6,6","1,38",4
+ART,P4,Anc. bre,9.0,"7,4","1,90",4
+ART,P4,Anc. bre,10.0,"7,7","2,22",4
+ART,P4,Anc. bre,11.0,"8,1","2,73",4
+ART,P4,Anc. bre,12.0,"6,9","1,74",4
+ART,P4,Anc. bre,13.0,"8,8","3,78",4
+ART,P4,Anc. bre,14.0,"8,0","2,38",4
+ART,P4,Anc. bre,15.0,"7,0","1,46",4
+ART,P4,Anc. bre,16.0,"9,1","3,37",4
+ART,P4,Anc. bre,17.0,"6,9","1,41",4
+ART,P4,Anc. bre,18.0,"7,8","2,43",4
+ART,P4,Anc. bre,19.0,"9,4","3,94",4
+ART,P4,Anc. bre,20.0,"10,4","5,28",4
+ART,P4,Anc. bre,21.0,"7,2","1,65",4
+ART,P4,Anc. bre,22.0,"7,0","1,50",4
+ART,P4,Anc. bre,23.0,"7,6","2,05",4
+ART,P4,Anc. bre,24.0,"8,0","2,23",4
+ART,P4,Anc. bre,25.0,"6,5","1,27",4
+ART,P4,Anc. bre,26.0,"6,7","1,61",4
+ART,P4,Anc. bre,27.0,"7,2","1,61",4
+ART,P4,Sph. gua,1.0,26,"100,41",4
+ART,P4,Sph. gua,2.0,"23,5","68,43",4
+ART,P4,Sph. gua,3.0,"13,9","13,67",4
+ART,P4,Sph. gua,4.0,"16,5","24,90",4
+ART,P4,Sph. gua,5.0,"28,9","132,60",4
+ART,P4,Sph. gua,6.0,21,"47,31",4
+ART,P4,Sph. gua,7.0,"23,4","69,00",4
+ART,P4,Sph. gua,8.0,"21,5","51,97",4
+ART,P4,Sph. gua,9.0,18,"30,21",4
+ART,P4,Sph. gua,10.0,27,"104,49",4
+ART,P4,Sph. gua,11.0,24,"72,67",4
+ART,P4,Sph. gua,12.0,"23,2","62,30",4
+ART,P4,Sph. gua,13.0,"24,5","73,64",4
+ART,P4,Sph. gua,14.0,23,"64,78",4
+ART,P4,Sph. gua,15.0,25,"80,08",4
+ART,P4,Sph. gua,16.0,22,"58,08",4
+ART,P4,Sph. gua,17.0,"24,5","80,92",4
+ART,P4,Sph. gua,18.0,"21,8","48,26",4
+ART,P4,Sph. gua,19.0,22,"53,52",4
+ART,P4,Sph. gua,20.0,22,"55,47",4
+ART,P4,Sph. gua,21.0,27,"98,88",4
+ART,P4,Sph. gua,22.0,"20,8","47,23",4
+ART,P4,Sph. gua,23.0,19,"33,77",4
+ART,P4,Sph. gua,24.0,"25,6","80,74",4
+ART,P4,Sph. gua,25.0,"23,5","65,28",4
+ART,P4,Sph. gua,26.0,"24,9","84,50",4
+ART,P4,Sph. gua,27.0,19,"35,49",4
+ART,P4,Sph. gua,28.0,"19,6","38,28",4
+ART,P4,Sph. gua,29.0,"25,0","74,13",4
+ART,P4,Sph. gua,30.0,"20,5","41,49",4
+ART,P4,Sph. gua,31.0,"24,2","70,75",4
+ART,P4,Sph. gua,32.0,"23,7","62,25",4
+ART,P4,Sph. gua,33.0,"21,8","53,23",4
+ART,P4,Dia. aur,1.0,15.0,"57,75",4
+ART,P4,Dia. aur,2.0,16.0,"72,08",4
+ART,P4,Sco. bra,1.0,"17,8","34,02",4
+ART,P4,Sco. bra,2.0,"25,2","96,47",4
+ART,P4,Sco. bra,3.0,"19,0","34,34",4
+ART,P4,Sco. bra,4.0,"23,2","67,94",4
+ART,P4,Sco. bra,5.0,"16,8","30,19",4
+ART,P4,Tri. pau,1.0,"12,2","52,05",4
+ART,P4,Tri. pau,2.0,"13,3","54,28",4
+ART,P4,Tri. pau,3.0,"12,5","42,82",4
+ART,P4,Tri. pau,4.0,"11,4","36,36",4
+ART,P4,Tri. pau,5.0,13.7,55.96,4
+ART,P4,Tri. pau,6.0,15.4,53.66,4
+ART,P4,Tri. pau,7.0,11.9,35.83,4
+ART,P4,Tri. pau,8.0,12.8,43.65,4
+ART,P4,Tri. pau,9.0,13.1,51.97,4
+ART,P4,Oph. pun,1.0,"7,7","4,74",4
+ART,P4,Oph. pun,2.0,"6,6","3,07",4
+ART,P4,Oph. pun,3.0,"6,3","2,62",4
+ART,P4,Oph. pun,4.0,"6,7","3,34",4
+ART,P4,Oph. pun,5.0,"6,5","2,81",4
+ART,P4,Oph. pun,6.0,"7,4","4,07",4
+ART,P4,Oph. pun,7.0,"9,3","8,25",4
+ART,P4,Oph. pun,8.0,"11,8","15,94",4
+ART,P4,Oph. pun,9.0,"7,9","4,86",4
+ART,P4,Oph. pun,10.0,"6,8","2,91",4
+ART,P4,Oph. pun,11.0,"9,5","8,21",4
+ART,P4,Oph. pun,12.0,"8,8","7,04",4
+ART,P4,Oph. pun,13.0,"7,5","3,67",4
+ART,P4,Oph. pun,14.0,"6,3","2,51",4
+ART,P4,Oph. pun,15.0,"10,1","5,94",4
+ART,P4,Oph. pun,16.0,"11,7","14,83",4
+ART,P4,Oph. pun,17.0,"8,9","6,99",4
+ART,P4,Lyc. lim,1.0,"7,4","3,57",4
+ART,P4,Sel. vom,1.0,"10,3","13,76",4
+ART,P4,Sel. bro,1.0,"9,6","9,87",4
+ART,P4,Gen. bar,1.0,"12,4","13,31",4
+ART,P4,Gen. bar,2.0,"15,7","31,68",4
+ART,P4,Sci. par,1.0,14.0,"22,74",4
+ART,P4,Gen. gen,1.0,"8,5","4,41",4
+ART,P4,Gen. gen,2.0,"6,9","2,34",4
+ART,P4,Gen. gen,3.0,"8,5","5,19",4
+ART,P4,Bag. mar,1.0,"6,4","30,57",4
+ART,P4,Bag. mar,2.0,17,"34,68",4
+ART,P4,Bag. mar,3.0,"20,6","56,2",4
+ART,P4,Bag. mar,4.0,"16,1","35,96",4
+ART,P4,Bag. mar,5.0,"17,5","39,66",4
+ART,P4,Bag. mar,6.0,"17,6","40,82",4
+ART,P4,Bag. mar,7.0,"18,4","37,57",4
+ART,P4,Bag. mar,8.0,"14,3","24,82",4
+ART,P4,Bag. mar,9.0,"19,5","51,43",4
+ART,P4,Bag. mar,10.0,"18,1","40,96",4
+ART,P4,Bag. mar,11.0,"15,2","24,95",4
+ART,P4,Bag. mar,12.0,"14,8","24,68",4
+ART,P4,Bag. mar,13.0,"14,3","20,61",4
+ART,P4,Bag. mar,14.0,"18,1","40,2",4
+ART,P4,Bag. mar,15.0,"20,5","53,03",4
+ART,P4,Bag. mar,16.0,"17,3","35,19",4
+ART,P4,Bag. mar,17.0,"16,0","29,16",4
+ART,P4,Bag. mar,18.0,"15,3","18,94",4
+ART,P4,Bag. mar,19.0,"17,5","36,44",4
+ART,P4,Bag. mar,20.0,"21,0","59,13",4
+ART,P4,Bag. mar,21.0,"13,5","16,44",4
+ART,P4,Bag. mar,22.0,"18,0","16,44",4
+ART,P4,Euc. gul,1.0,8,"5,24",4
+ART,P4,Euc. gul,2.0,"7,3","4,25",4
+ART,P4,Euc. gul,3.0,"7,6","3,40",4
+ART,P4,Euc. gul,4.0,"7,2","3,41",4
+ART,P4,Sph. bar,1.0,"19,7","39,13",4
+ART,P4,Sph. bar,2.0,"19,5","35,75",4
+ART,P4,Sph. bar,3.0,"20,0","41,84",4
+ART,P4,Sph. bar,4.0,"22,6","59,06",4
+ART,P4,Sph. bar,5.0,"34,2","174,05",4
+ART,P4,Con. nob,1.0,"7,9","5,11",4
+ART,P4,Con. nob,2.0,7,"4,76",4
+ART,P4,Con. nob,3.0,"8,9","9,21",4
+ART,P4,Con. nob,4.0,8,"6,61",4
+ART,P4,Ste. ste,1.0,8,"6,30",4
+ART,P4,Ste. ste,2.0,"6,4","2,44",4
+ART,P4,Ste. bra,1.0,"10,5","11,85",4
+ART,P4,Ste. bra,2.0,"8,5","6,70",4
+ART,P4,Ste. bra,3.0,11,"13,50",4
+ART,P4,Ste. bra,4.0,"8,5","6,33",4
+ART,P4,Ste. sp,1.0,"10,3","10,64",4
+ART,P4,Ste. sp,2.0,"9,5","8,98",4
+ART,P4,Pte. ath,1.0,"7,9","2,56",4
+ART,P4,Pte. ath,2.0,"7,7","2,43",4
+ART,P4,Pte. ath,3.0,"6,8","1,96",4
+ART,P4,Pte. ath,4.0,7,"1,65",4
+ART,P4,Pte. ath,5.0,"6,5","1,23",4
+ART,P4,Pte. ath,6.0,"5,6","1,20",4
+ART,P4,Pte. ath,7.0,"4,5","0,79",4
+ART,P4,Pte. ath,8.0,"7,4","4,15",4
+ART,P4,Pte. ath,9.0,"7,5","3,33",4
+ART,P4,Pte. ath,10.0,"7,9","1,59",4
+ART,P4,Pte. ath,11.0,"6,5","1,23",4
+ART,P4,Pte. ath,12.0,"8,5","3,23",4
+ART,P4,Asp. lun,1.0,9,"5,06",4
+ART,P4,Asp. lun,2.0,10,"8,44",4
+ART,P4,Asp. lun,3.0,11,"9,43",4
+ART,P4,Asp. lun,4.0,"11,5","11,81",4
+ART,P4,Asp. lun,5.0,10,"8,24",4
+ART,P4,Asp. lun,6.0,"7,5","4,78",4
+ART,P4,Asp. lun,7.0,"11,5","11,00",4
+ART,P4,Asp. lun,8.0,11,"10,98",4
+ART,P4,Asp. lun,9.0,"11,5","12,37",4
+ART,P4,Asp. lun,10.0,"7,8","3,63",4
+ART,P4,Asp. lun,11.0,"9,5","5,70",4
+ART,P4,Asp. lun,12.0,"9,3","5,07",4
+ART,P4,Asp. lun,13.0,"8,3","3,94",4
+ART,P4,Asp. lun,14.0,"10,0","6,86",4
+ART,P4,Asp. lun,15.0,"9,7","5,94",4
+ART,P4,Asp. lun,16.0,"9,4","5,54",4
+ART,P4,Asp. lun,17.0,"7,3","2,51",4
+ART,P4,Asp. lun,18.0,"8,5","3,56",4
+ART,P4,Asp. lun,19.0,"8,6","4,32",4
+ART,P4,Asp. lun,20.0,"8,5","3,63",4
+ART,P4,Asp. lun,21.0,"9,7","5,75",4
+ART,P4,Asp. lun,22.0,"8,8","4,87",4
+ART,P4,Asp. lun,23.0,"10,3","7,13",4
+ART,P4,Asp. lun,24.0,"9,1","5,58",4
+ART,P4,Asp. lun,25.0,"9,0","5,20",4
+ART,P4,Asp. lun,26.0,"8,0","3,15",4
+ART,P4,Asp. lun,27.0,"8,5","4,13",4
+ART,P4,Asp. lun,28.0,"8,4","3,00",4
+ART,P4,Asp. lun,29.0,"7,4","2,73",4
+ART,P4,Asp. lun,30.0,"9,8","5,26",4
+ART,P4,Asp. lun,31.0,"9,3","5,65",4
+ART,P4,Asp. lun,32.0,"9,8","6,15",4
+ART,P4,Asp. lun,33.0,"10,3","6,89",4
+ART,P4,Asp. lun,34.0,"8,9","4,63",4
+ART,P4,Asp. lun,35.0,"8,8","4,04",4
+ART,P4,Asp. lun,36.0,"8,4","4,25",4
+ART,P4,Asp. lun,37.0,"8,0","3,51",4
+ART,P4,Asp. lun,38.0,"10,6","7,72",4
+ART,P4,Asp. lun,39.0,"9,4","5,80",4
+ART,P4,Asp. lun,40.0,"9,2","9,54",4
+ART,P4,Asp. lun,41.0,"8,3","3,17",4
+ART,P4,Asp. lun,42.0,"9,0","4,80",4
+ART,P4,Asp. lun,43.0,"9,0","5,02",4
+ART,P4,Asp. lun,44.0,"8,0","4,57",4
+ART,P4,Asp. lun,45.0,"9,3","5,37",4
+ART,P4,Asp. lun,46.0,"10,4","8,80",4
+ART,P4,Asp. lun,47.0,"9,7","7,18",4
+ART,P4,Pol.vir,1.0,"7,7","3,52",4
+ART,P4,Pol.vir,2.0,"7,5","2,95",4
+ART,P4,Ste.nas,1.0,"7,1","3,23",4
+ART,P4,Ste.nas,2.0,"6,8","1,66",4
+ART,P4,Ste.nas,3.0,"8,0","4,86",4
+ART,P4,Men.lit,1.0,"8,4","4,87",4
+ART,P4,Men.lit,2.0,"11,0","9,50",4
+ART,P4,Men.lit,3.0,"9,5","7,20",4
+ART,P4,Bag.bag,1.0,"17,9","39,43",4
+ART,P4,Bag.bag,2.0,"16,3","37,16",4
+ART,P4,Bag.bag,3.0,"17,0","37,72",4
+ART,P4,Lar.bre,1.0,"10,0","10,33",4
+ART,P4,Lar.bre,2.0,"7,5","3,75",4
+ART,P4,Lar.bre,3.0,"6,9","2,67",4
+ART,P4,Lar.bre,4.0,"6,1","2,24",4
+ART,P4,Lar.bre,5.0,"8,2","5,67",4
+ART,P4,Cyn.aco,1.0,"9,5","8,28",4
+ART,P4,Ste.ras,1.0,"9,3","6,33",4
+ART,P4,Ste.ras,2.0,"11,0","12,22",4
+ART,P4,Ste.ras,3.0,"6,5","2,53",4
+ART,P4,Ste.ras,4.0,"8,2","4,81",4
+ART,P4,Ste.ras,5.0,"9,5","7,83",4
+ART,P4,Anc.clu,1.0,"7,4","2,28",4
