@@ -10,6 +10,7 @@
 
 * [Mapa](https://observablehq.com/d/198fecf07056ed07)
 * [Gráfico de Barras Interativo](https://observablehq.com/d/99c68ac949681a7f)
+* [Scatterplot E Gráfico de Pizza](https://observablehq.com/d/4df931c3b91e1963)
 
 ## Apresentção
 
