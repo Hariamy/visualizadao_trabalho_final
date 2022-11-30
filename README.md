@@ -5,6 +5,9 @@
 * João Lucas Sales Paiva - 497065 
 * Maria Carolina Maximo Viana - 495119
 
+## Página Web
+
+[Página](https://hariamy.github.io/visualizadao_trabalho_final/)
 
 ## Graficos no Observable
 
